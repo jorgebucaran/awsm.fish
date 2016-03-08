@@ -14,8 +14,9 @@ A **curated** list of awesome tools, prompts and other cool nuggets for the amaz
 
 + [bobthefish](https://github.com/oh-my-fish/theme-bobthefish) powerline, git-aware prompt optimized for awesome
 + [joker](https://github.com/fishery/joker) powerline crazy prompt inspired by the Joker
-+ [namek](https://github.com/fishery/namek) powerline prompt inspired by Piccolo 
++ [namek](https://github.com/fishery/namek) powerline prompt inspired by Piccolo
 + [shellder](https://github.com/simnalamburt/shellder) powerline git-aware prompt optimized for speed
++ [zealot](https://github.com/fishery/zealot) powerline prompt inspired by the Protoss
 
 ## Contributing
 
