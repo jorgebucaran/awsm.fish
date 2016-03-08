@@ -4,7 +4,7 @@ A **curated** list of awesome tools, prompts and other cool nuggets for the amaz
 
 #### Tools
 + [fisherman](https://github.com/fisherman/fisherman) a fast, modern plugin system for fish
-+ [oh-my-fish](https://github.com/fisherman/fisherman) a fish configuration framework
++ [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) a fish configuration framework
 + [fishtape](https://github.com/fisherman/fishtape) TAP producing test runner for fish
 + [getopts](https://github.com/fishery/getopts) command line options parser for fish
 + [fishery](https://github.com/fishery) fish plugin market
