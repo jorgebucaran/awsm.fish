@@ -5,7 +5,7 @@ A **curated** list of awesome tools, prompts and other cool nuggets for the amaz
 #### Tools
 + [fisherman](https://github.com/fisherman/fisherman) a fast, modern plugin manager for fish
 + [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) a fish configuration framework
-+ [fishtape](https://github.com/fisherman/fishtape) TAP producing test runner for fish
++ [fishtape](https://github.com/fishery/fishtape) TAP producing test runner for fish
 + [getopts](https://github.com/fishery/getopts) command line options parser for fish
 + [fishery](https://github.com/fishery) fish plugin market place
 + [bass](https://github.com/edc/bass) run bash utilities in fish
@@ -14,8 +14,8 @@ A **curated** list of awesome tools, prompts and other cool nuggets for the amaz
 
 + [bobthefish](https://github.com/oh-my-fish/theme-bobthefish) powerline prompt optimized for awesome
 + [joker](https://github.com/fishery/joker) powerline crazy prompt inspired by the Joker
-+ [namek](https://github.com/fishery/namek) powerline prompt inspired by the last Namekian
-+ [pure](https://github.com/rafaelrinaldi/pure) fish port of [pure]
++ [masenko](https://github.com/fishery/masenko) powerline prompt inspired by the demon blast
++ [pure](https://github.com/rafaelrinaldi/pure) port of [pure]
 + [shellder](https://github.com/simnalamburt/shellder) powerline prompt optimized for speed
 + [zealot](https://github.com/fishery/zealot) powerline prompt inspired by the Protoss
 
