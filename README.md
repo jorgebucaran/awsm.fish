@@ -17,6 +17,7 @@ A **curated** list of awesome tools, prompts and other cool nuggets for the amaz
 + [Masenko](https://github.com/fishery/masenko) powerline prompt inspired by the demon blast
 + [Pure](https://github.com/rafaelrinaldi/pure) port of [pure]
 + [Shellder](https://github.com/simnalamburt/shellder) powerline prompt optimized for speed
++ [Sektor](https://github.com/fishery/sektor) powerline prompt inspired by Sektor
 + [Zealot](https://github.com/fishery/zealot) powerline prompt inspired by the Protoss
 
 ## Contributing
