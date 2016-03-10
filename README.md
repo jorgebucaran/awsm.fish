@@ -3,21 +3,21 @@
 A **curated** list of awesome tools, prompts and other cool nuggets for the amazing [fish] shell.
 
 #### Tools
-+ [fisherman](https://github.com/fisherman/fisherman) a fast, modern plugin manager for fish
-+ [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) a fish configuration framework
-+ [fishtape](https://github.com/fishery/fishtape) TAP producing test runner for fish
-+ [getopts](https://github.com/fishery/getopts) command line options parser for fish
-+ [fishery](https://github.com/fishery) fish plugin market place
-+ [bass](https://github.com/edc/bass) run bash utilities in fish
++ [Fisherman](https://github.com/fisherman/fisherman) a fast, modern plugin manager for fish
++ [Oh my fish](https://github.com/oh-my-fish/oh-my-fish) a fish configuration framework
++ [Fishtape](https://github.com/fishery/fishtape) TAP producing test runner for fish
++ [Getopts](https://github.com/fishery/getopts) command line options parser for fish
++ [Fishery](https://github.com/fishery) fish plugin market place
++ [Bass](https://github.com/edc/bass) run bash utilities in fish
 
 #### Prompts
 
-+ [bobthefish](https://github.com/oh-my-fish/theme-bobthefish) powerline prompt optimized for awesome
-+ [joker](https://github.com/fishery/joker) powerline crazy prompt inspired by the Joker
-+ [masenko](https://github.com/fishery/masenko) powerline prompt inspired by the demon blast
-+ [pure](https://github.com/rafaelrinaldi/pure) port of [pure]
-+ [shellder](https://github.com/simnalamburt/shellder) powerline prompt optimized for speed
-+ [zealot](https://github.com/fishery/zealot) powerline prompt inspired by the Protoss
++ [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) powerline prompt optimized for awesome
++ [Joker](https://github.com/fishery/joker) powerline crazy prompt inspired by the Joker
++ [Masenko](https://github.com/fishery/masenko) powerline prompt inspired by the demon blast
++ [Pure](https://github.com/rafaelrinaldi/pure) port of [pure]
++ [Shellder](https://github.com/simnalamburt/shellder) powerline prompt optimized for speed
++ [Zealot](https://github.com/fishery/zealot) powerline prompt inspired by the Protoss
 
 ## Contributing
 
