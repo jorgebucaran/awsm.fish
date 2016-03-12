@@ -13,12 +13,12 @@ A **curated** list of awesome tools, prompts and other cool nuggets for the amaz
 #### Prompts
 
 + [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) powerline prompt optimized for awesome
-+ [Joker](https://github.com/fishery/joker) powerline crazy prompt inspired by the Joker
-+ [Masenko](https://github.com/fishery/masenko) powerline prompt inspired by the demon blast
++ [Joker](https://github.com/fishery/joker) crazy prompt inspired by the Joker
++ [Masenko](https://github.com/fishery/masenko) namekian prompt inspired by Piccolo's demon blast
 + [Pure](https://github.com/rafaelrinaldi/pure) port of [pure]
-+ [Shellder](https://github.com/simnalamburt/shellder) powerline prompt optimized for speed
-+ [Sektor](https://github.com/fishery/sektor) powerline prompt inspired by Sektor
-+ [Zealot](https://github.com/fishery/zealot) powerline prompt inspired by the Protoss
++ [Shellder](https://github.com/simnalamburt/shellder) prompt optimized for speed
++ [Sektor](https://github.com/fishery/sektor) mortal prompt inspired by the cyborg Sektor
++ [Zealot](https://github.com/fishery/zealot) prompt inspired by the Protoss race
 
 ## Contributing
 
