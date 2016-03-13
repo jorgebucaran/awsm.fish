@@ -5,6 +5,7 @@ A **curated** list of awesome tools, prompts and other cool nuggets for the amaz
 ## Functions
 
 - [Bass](https://github.com/edc/bass) - Run bash utilities in fish.
+- [fish-ssh-agent](https://github.com/herrbischoff/fish-ssh-agent) - Autostart ssh-agent function for the fish shell.
 
 ## Prompts
 
