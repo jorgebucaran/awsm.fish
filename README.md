@@ -2,35 +2,45 @@
 
 A **curated** list of awesome tools, prompts and other cool nuggets for the amazing [fish] shell.
 
-## Functions
+## Tools
 
-- [Bass](https://github.com/edc/bass) - Run bash utilities in fish.
-- [fish-ssh-agent](https://github.com/herrbischoff/fish-ssh-agent) - Autostart ssh-agent function for fish.
+- [Fisherman](https://github.com/fisherman/fisherman) - A blazing fast, parallel plugin manager for fish.
+- [Fundle](https://github.com/tuvistavie/fundle) - A minimalist package manager for fish.
+- [Fishtape](https://github.com/fishery/fishtape) - TAP producing test runner for fish.
+- [Oh my fish](https://github.com/oh-my-fish/oh-my-fish) - A configuration framework for fish.
+- [Wahoo](https://github.com/bucaran/wahoo) - A configuration framework for fish.
 
 ## Prompts
 
-- [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) - Powerline prompt optimized for awesome.
-- [Cyber](https://github.com/fishery/cyber) - Classical prompt inspired by hacking the kernel.
-- [Joker](https://github.com/fishery/joker) - Powerline prompt based on the Joker.
-- [Pure](https://github.com/rafaelrinaldi/pure) - Port of [Pure].
-- [Sektor](https://github.com/fishery/sektor) - Powerline prompt inspired by MK's Sektor.
-- [Shellder](https://github.com/simnalamburt/shellder) - Powerline prompt inspired by seoul256.vim.
-- [Stark](https://github.com/fishery/stark) - Powerline prompt based on Iron Man.
-- [Superman](https://github.com/fishery/superman) - Powerline prompt based on Superman.
-- [Terran](https://github.com/fishery/terran) - Powerline prompt based on the Terran race.
+### Classical
 
-## Tools
+- [Cyber](https://github.com/fishery/cyber)
 
-- [Fisherman](https://github.com/fisherman/fisherman) - Fast, parallel plugin manager for fish.
-- [Fishery](https://github.com/fishery) - fish plugin market place.
-- [Fishtape](https://github.com/fishery/fishtape) - TAP producing test runner for fish.
-- [Getopts](https://github.com/fishery/getopts) - Command line options parser for fish.
-- [Oh my fish](https://github.com/oh-my-fish/oh-my-fish) - fish configuration framework.
-- [Wahoo](https://github.com/bucaran/wahoo) - fish configuration framework.
+### Powerline
+
+- [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish)
+- [Joker](https://github.com/fishery/joker)
+- [Pure](https://github.com/rafaelrinaldi/pure)
+- [Sektor](https://github.com/fishery/sektor)
+- [Shellder](https://github.com/simnalamburt/shellder)
+- [Stark](https://github.com/fishery/stark)
+- [Superman](https://github.com/fishery/superman)
+- [Terran](https://github.com/fishery/terran)
+
+## Functions
+
+- [Bass](https://github.com/edc/bass) - Run bash utilities in fish.
+- [Debug](https://github.com/fishery/debug) - Conditional debug logger.
+- [Get](https://github.com/fishery/get) - Interactive prompt reader.
+- [Getopts](https://github.com/fishery/getopts) - Command line options parser.
+- [Fish-ssh-agent](https://github.com/herrbischoff/fish-ssh-agent) - Autostart ssh-agent function.
+- [Segment](https://github.com/fishery/segment) - Powerline prompt builder.
+- [Spin](https://github.com/fishery/spin) - Background job spinner.
+- [Z](https://github.com/fishery/z) - Pure-fish z directory jumping.
 
 ## Contributing
 
-Fork, add your amazing nugget and send a PR. If you wish to remove an item from the list please [create] an issue first.
+Fork, add your amazing nugget and send a PR.
 
 [Awesome]: https://github.com/sindresorhus/awesome
 [fish]: https://github.com/fish-shell/fish-shell
