@@ -21,11 +21,12 @@ A **curated** list of awesome tools, prompts and other cool nuggets for the amaz
 
 ## Tools
 
-- [Fisherman](https://github.com/fisherman/fisherman) - Fast, modern plugin manager for fish.
+- [Fisherman](https://github.com/fisherman/fisherman) - Fast, parallel plugin manager for fish.
 - [Fishery](https://github.com/fishery) - fish plugin market place.
 - [Fishtape](https://github.com/fishery/fishtape) - TAP producing test runner for fish.
 - [Getopts](https://github.com/fishery/getopts) - Command line options parser for fish.
 - [Oh my fish](https://github.com/oh-my-fish/oh-my-fish) - fish configuration framework.
+- [Wahoo](https://github.com/bucaran/wahoo) - fish configuration framework.
 
 ## Contributing
 
