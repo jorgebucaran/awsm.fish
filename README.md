@@ -4,9 +4,10 @@ A **curated** list of awesome tools, prompts and other cool nuggets for the amaz
 
 ## Tools
 
+- [fin](https://github.com/fisherman/fisherman) - A one-file, no-configuration, concurrent plugin manager for fish.
 - [Fisherman](https://github.com/fisherman/fisherman) - A blazing fast, parallel plugin manager for fish.
-- [Fundle](https://github.com/tuvistavie/fundle) - A minimalist package manager for fish.
 - [Fishtape](https://github.com/fishery/fishtape) - TAP producing test runner for fish.
+- [Fundle](https://github.com/tuvistavie/fundle) - A minimalist package manager for fish.
 - [Oh my fish](https://github.com/oh-my-fish/oh-my-fish) - A configuration framework for fish.
 - [Wahoo](https://github.com/bucaran/wahoo) - A configuration framework for fish.
 
