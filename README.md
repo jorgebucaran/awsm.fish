@@ -4,39 +4,39 @@ A curated list of awesome tools, prompts and other cool nuggets for the amazing 
 
 ## Plugin Managers
 
-- [Fin](https://github.com/fishery/fin)
+- [Fin](https://github.com/fisherman/fin)
 - [Fisherman](https://github.com/fisherman/fisherman)
 - [Fundle](https://github.com/tuvistavie/fundle)
 
 ## Plugins
 
 - [Bass](https://github.com/edc/bass)
-- [Debug](https://github.com/fishery/debug)
-- [Get](https://github.com/fishery/get)
-- [Getopts](https://github.com/fishery/getopts)
+- [Debug](https://github.com/fisherman/debug)
+- [Get](https://github.com/fisherman/get)
+- [Getopts](https://github.com/fisherman/getopts)
 - [Fish-ssh-agent](https://github.com/herrbischoff/fish-ssh-agent)
-- [Fishtape](https://github.com/fishery/fishtape)
-- [Segment](https://github.com/fishery/segment)
-- [Shark](https://github.com/fishery/shark)
-- [Spin](https://github.com/fishery/spin)
-- [Z](https://github.com/fishery/z)
+- [Fishtape](https://github.com/fisherman/fishtape)
+- [Segment](https://github.com/fisherman/segment)
+- [Shark](https://github.com/fisherman/shark)
+- [Spin](https://github.com/fisherman/spin)
+- [Z](https://github.com/fisherman/z)
 
 ## Prompts
 
 ### Classical
 
-- [Cyber](https://github.com/fishery/cyber)
+- [Cyber](https://github.com/fisherman/cyber)
 
 ### Powerline
 
 - [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish)
-- [Joker](https://github.com/fishery/joker)
+- [Joker](https://github.com/fisherman/joker)
 - [Pure](https://github.com/rafaelrinaldi/pure)
-- [Sektor](https://github.com/fishery/sektor)
+- [Sektor](https://github.com/fisherman/sektor)
 - [Shellder](https://github.com/simnalamburt/shellder)
-- [Stark](https://github.com/fishery/stark)
-- [Superman](https://github.com/fishery/superman)
-- [Terran](https://github.com/fishery/terran)
+- [Stark](https://github.com/fisherman/stark)
+- [Superman](https://github.com/fisherman/superman)
+- [Terran](https://github.com/fisherman/terran)
 
 ## Configuration Frameworks
 
