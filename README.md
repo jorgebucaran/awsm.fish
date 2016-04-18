@@ -1,15 +1,30 @@
 # Awesome fish [![Awesome][awesome-badge]][awesome-link]
 
-A **curated** list of awesome tools, prompts and other cool nuggets for the amazing [fish] shell.
+A curated list of awesome tools, prompts and other cool nuggets for the amazing [fish] shell.
 
-## Tools
+## Plugin Managers
 
-- [fin](https://github.com/fisherman/fisherman) - A one-file, no-configuration, concurrent plugin manager for fish.
-- [Fisherman](https://github.com/fisherman/fisherman) - A blazing fast, parallel plugin manager for fish.
+- [Fin](https://github.com/fishery/fin)
+- [Fisherman](https://github.com/fisherman/fisherman)
+- [Fundle](https://github.com/tuvistavie/fundle)
+
+## Plugins
+
+- [Bass](https://github.com/edc/bass) - Run bash utilities in fish.
+- [Debug](https://github.com/fishery/debug) - Conditional debug logger.
+- [Get](https://github.com/fishery/get) - Interactive prompt reader.
+- [Getopts](https://github.com/fishery/getopts) - Command line options parser.
+- [Fish-ssh-agent](https://github.com/herrbischoff/fish-ssh-agent) - Autostart ssh-agent function.
 - [Fishtape](https://github.com/fishery/fishtape) - TAP producing test runner for fish.
-- [Fundle](https://github.com/tuvistavie/fundle) - A minimalist package manager for fish.
-- [Oh my fish](https://github.com/oh-my-fish/oh-my-fish) - A configuration framework for fish.
-- [Wahoo](https://github.com/bucaran/wahoo) - A configuration framework for fish.
+- [Segment](https://github.com/fishery/segment) - Powerline prompt builder.
+- [Shark](https://github.com/fishery/shark) - Sparkline generator.
+- [Spin](https://github.com/fishery/spin) - Background job spinner.
+- [Z](https://github.com/fishery/z) - Pure-fish z directory jumping.
+
+### Configuration Frameworks
+
+- [Oh my fish](https://github.com/oh-my-fish/oh-my-fish)
+- [Wahoo](https://github.com/bucaran/wahoo)
 
 ## Prompts
 
@@ -27,17 +42,6 @@ A **curated** list of awesome tools, prompts and other cool nuggets for the amaz
 - [Stark](https://github.com/fishery/stark)
 - [Superman](https://github.com/fishery/superman)
 - [Terran](https://github.com/fishery/terran)
-
-## Functions
-
-- [Bass](https://github.com/edc/bass) - Run bash utilities in fish.
-- [Debug](https://github.com/fishery/debug) - Conditional debug logger.
-- [Get](https://github.com/fishery/get) - Interactive prompt reader.
-- [Getopts](https://github.com/fishery/getopts) - Command line options parser.
-- [Fish-ssh-agent](https://github.com/herrbischoff/fish-ssh-agent) - Autostart ssh-agent function.
-- [Segment](https://github.com/fishery/segment) - Powerline prompt builder.
-- [Spin](https://github.com/fishery/spin) - Background job spinner.
-- [Z](https://github.com/fishery/z) - Pure-fish z directory jumping.
 
 ## Contributing
 
