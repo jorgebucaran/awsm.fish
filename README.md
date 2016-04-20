@@ -49,11 +49,11 @@ Fork, add your amazing nugget and send a PR.
 
 [Awesome]: https://github.com/sindresorhus/awesome
 [fish]: https://github.com/fish-shell/fish-shell
-[create]: https://github.com/bucaran/awesome-fish/issues
+[create]: https://github.com/fisherman/awesome-fish/issues
 
 [awesome-link]: https://github.com/sindresorhus/awesome
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [Pure]: https://github.com/sindresorhus/pure
 
 [travis-link]: https://travis-ci.org/fisherman/awesome-fish
-[travis-badge]: https://travis-ci.org/fisherman/awesome-fish.svg?branch=master
+[travis-badge]: https://api.travis-ci.org/fisherman/awesome-fish.svg?branch=master
