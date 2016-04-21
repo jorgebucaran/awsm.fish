@@ -6,7 +6,6 @@ A curated list of awesome tools, prompts and other cool nuggets for the amazing 
 
 ## Plugin Managers
 
-- [Fin](https://github.com/fisherman/fin)
 - [Fisherman](https://github.com/fisherman/fisherman)
 - [Fundle](https://github.com/tuvistavie/fundle)
 
