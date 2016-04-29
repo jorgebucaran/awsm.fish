@@ -1,4 +1,11 @@
-[![Travis][travis-badge]][travis-link]
+[slack-link]: https://fisherman-wharf.herokuapp.com
+[slack-badge]: https://fisherman-wharf.herokuapp.com/badge.svg
+
+[travis-link]: https://travis-ci.org/fisherman/awesome-fish
+[travis-badge]: https://img.shields.io/travis/fisherman/awesome-fish.svg
+
+[![Build Status][travis-badge]][travis-link]
+[![Slack][slack-badge]][slack-link]
 
 # Awesome fish
 
@@ -53,5 +60,3 @@ Fork, add your amazing nugget and send a PR.
 [create]: https://github.com/fisherman/awesome-fish/issues
 [Pure]: https://github.com/sindresorhus/pure
 
-[travis-link]: https://travis-ci.org/fisherman/awesome-fish
-[travis-badge]: https://img.shields.io/travis/fisherman/awesome-fish.svg?style=flat-square
