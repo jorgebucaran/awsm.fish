@@ -4,8 +4,12 @@
 [travis-link]: https://travis-ci.org/fisherman/awesome-fish
 [travis-badge]: https://img.shields.io/travis/fisherman/awesome-fish.svg
 
+[awesome-link]:https://github.com/sindresorhus/awesome
+[awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
+
 [![Build Status][travis-badge]][travis-link]
 [![Slack][slack-badge]][slack-link]
+[![Awesome][awesome-badge]][awesome-link]
 
 # Awesome fish
 
