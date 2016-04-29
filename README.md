@@ -21,16 +21,17 @@ A curated list of awesome tools, prompts and other cool nuggets for the amazing 
 
 ## Plugins
 
-- [Bass](https://github.com/edc/bass)
-- [Debug](https://github.com/fisherman/debug)
-- [Get](https://github.com/fisherman/get)
-- [Getopts](https://github.com/fisherman/getopts)
-- [Fish-ssh-agent](https://github.com/herrbischoff/fish-ssh-agent)
-- [Fishtape](https://github.com/fisherman/fishtape)
-- [Segment](https://github.com/fisherman/segment)
-- [Shark](https://github.com/fisherman/shark)
-- [Spin](https://github.com/fisherman/spin)
-- [Z](https://github.com/fisherman/z)
+- [Bass](https://github.com/edc/bass) - Make Bash utilities usable for fish-shell.
+- [Debug](https://github.com/fisherman/debug) - Conditional debug logger for fish-shell.
+- [Get](https://github.com/fisherman/get) - Interactive prompt reader for fish-shell.
+- [Getopts](https://github.com/fisherman/getopts) - Command line options parser for fish-shell.
+- [Fin](https://github.com/fisherman/fin) - Node.js version manager for fish-shell.
+- [Fish-ssh-agent](https://github.com/herrbischoff/fish-ssh-agent) - Autostart ssh-agent function for fish-shell.
+- [Fishtape](https://github.com/fisherman/fishtape) - TAP producing test runner for fish-shell.
+- [Segment](https://github.com/fisherman/segment) - Build powerline prompts for fish-shell.
+- [Shark](https://github.com/fisherman/shark) - Sparkline generator for fish-shell, inspired by @holman's Spark.
+- [Spin](https://github.com/fisherman/spin) - Build powerline prompts for fish-shell.
+- [Z](https://github.com/fisherman/z) - Pure-fish z directory jumping.
 
 ## Prompts
 
