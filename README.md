@@ -14,7 +14,6 @@ A curated list of awesome tools, prompts and other cool nuggets for the amazing 
 ## Plugin Managers
 
 - [Fisherman](https://github.com/fisherman/fisherman)
-- [Fundle](https://github.com/tuvistavie/fundle)
 
 ## Plugins
 
@@ -45,11 +44,6 @@ A curated list of awesome tools, prompts and other cool nuggets for the amazing 
 - [Stark](https://github.com/fisherman/stark)
 - [Superman](https://github.com/fisherman/superman)
 - [Terran](https://github.com/fisherman/terran)
-
-## Configuration Frameworks
-
-- [Oh my fish](https://github.com/oh-my-fish/oh-my-fish)
-- [Wahoo](https://github.com/bucaran/wahoo)
 
 ## Contributing
 
