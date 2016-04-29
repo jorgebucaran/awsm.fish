@@ -9,9 +9,8 @@
 
 [![Build Status][travis-badge]][travis-link]
 [![Slack][slack-badge]][slack-link]
-[![Awesome][awesome-badge]][awesome-link]
 
-# Awesome fish
+# Awesome fish-shell
 
 A curated list of awesome tools, prompts and other cool nuggets for the amazing [fish] shell.
 
@@ -53,6 +52,8 @@ A curated list of awesome tools, prompts and other cool nuggets for the amazing 
 ## Contributing
 
 Fork, add your amazing nugget and send a PR.
+
+[![Awesome][awesome-badge]][awesome-link]
 
 [Awesome]: https://github.com/sindresorhus/awesome
 [fish]: https://github.com/fish-shell/fish-shell
