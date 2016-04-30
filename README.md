@@ -29,7 +29,7 @@ A curated list of awesome tools, prompts and other cool nuggets for the amazing 
 - [Fishtape](https://github.com/fisherman/fishtape) - TAP producing test runner for fish-shell.
 - [Segment](https://github.com/fisherman/segment) - Build powerline prompts for fish-shell.
 - [Shark](https://github.com/fisherman/shark) - Sparkline generator for fish-shell, inspired by @holman's Spark.
-- [Spin](https://github.com/fisherman/spin) - Build powerline prompts for fish-shell.
+- [Spin](https://github.com/fisherman/spin) - Background job spinner for fish-shell.
 - [Z](https://github.com/fisherman/z) - Pure-fish z directory jumping.
 
 ## Prompts
