@@ -1,40 +1,28 @@
-[slack-link]: https://fisherman-wharf.herokuapp.com
-[slack-badge]: https://fisherman-wharf.herokuapp.com/badge.svg
+# Awesome fish [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[travis-link]: https://travis-ci.org/fisherman/awesome-fish
-[travis-badge]: https://img.shields.io/travis/fisherman/awesome-fish.svg
-
-[awesome-link]:https://github.com/sindresorhus/awesome
-[awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
-
-[![Build Status][travis-badge]][travis-link]
-[![Slack][slack-badge]][slack-link]
-
-# Awesome fish-shell
-
-A curated list of awesome tools, prompts and other cool nuggets for the amazing [fish] shell.
+A curated list of awesome tools, prompts and other cool nuggets for the amazing [fish-shell](https://github.com/fish-shell/fish-shell).
 
 ## Plugin Managers
 
-- [Fisherman](https://github.com/fisherman/fisherman)
+- [fisherman](https://github.com/fisherman/fisherman)
 
 ## Plugins
 
-- [Bass](https://github.com/edc/bass) - Make Bash utilities usable for fish-shell.
-- [Debug](https://github.com/fisherman/debug) - Conditional debug logger for fish-shell.
-- [Get](https://github.com/fisherman/get) - Interactive prompt reader for fish-shell.
-- [Getopts](https://github.com/fisherman/getopts) - Command line options parser for fish-shell.
-- [Fin](https://github.com/fisherman/fin) - Node.js version manager for fish-shell.
-- [Fish-ssh-agent](https://github.com/herrbischoff/fish-ssh-agent) - Autostart ssh-agent function for fish-shell.
-- [Fishtape](https://github.com/fisherman/fishtape) - TAP producing test runner for fish-shell.
-- [Segment](https://github.com/fisherman/segment) - Build powerline prompts for fish-shell.
-- [Shark](https://github.com/fisherman/shark) - Sparkline generator for fish-shell, inspired by @holman's Spark.
-- [Spin](https://github.com/fisherman/spin) - Background job spinner for fish-shell.
+- [Bass](https://github.com/edc/bass) - Make Bash utilities usable in fish.
+- [Debug](https://github.com/fisherman/debug) - Conditional debug logger.
+- [Get](https://github.com/fisherman/get) - Interactive prompt reader.
+- [Getopts](https://github.com/fisherman/getopts) - Command line options parser.
+- [fin](https://github.com/fisherman/fin) - Node.js version manager.
+- [Fish-ssh-agent](https://github.com/herrbischoff/fish-ssh-agent) - Autostart ssh-agent function.
+- [Fishtape](https://github.com/fisherman/fishtape) - TAP producing test runner.
+- [Segment](https://github.com/fisherman/segment) - Powerline prompt builder.
+- [Shark](https://github.com/fisherman/shark) - Sparkline generator, inspired by @holman's Spark.
+- [Spin](https://github.com/fisherman/spin) - Background job spinner.
 - [Z](https://github.com/fisherman/z) - Pure-fish z directory jumping.
 
 ## Prompts
 
-### Classical
+### Simple
 
 - [Cyber](https://github.com/fisherman/cyber)
 
@@ -49,14 +37,13 @@ A curated list of awesome tools, prompts and other cool nuggets for the amazing 
 - [Superman](https://github.com/fisherman/superman)
 - [Terran](https://github.com/fisherman/terran)
 
+### Community
+
+- [StackOverflow](http://stackoverflow.com/questions/tagged/fish)
+- [`#fish` on OFTC](https://webchat.oftc.net/?channels=fish)
+- [Gitter.im Channel](https://gitter.im/fish-shell/fish-shell)
+- [Fisherman on Slack](https://fisherman-wharf.herokuapp.com)
+
 ## Contributing
 
 Fork, add your amazing nugget and send a PR.
-
-[![Awesome][awesome-badge]][awesome-link]
-
-[Awesome]: https://github.com/sindresorhus/awesome
-[fish]: https://github.com/fish-shell/fish-shell
-[create]: https://github.com/fisherman/awesome-fish/issues
-[Pure]: https://github.com/sindresorhus/pure
-
