@@ -4,7 +4,7 @@ A curated list of awesome tools, prompts and other cool nuggets for the amazing 
 
 ## Plugin Managers
 
-- [fisherman](https://github.com/fisherman/fisherman)
+- [Fisherman](https://github.com/fisherman/fisherman)
 
 ## Plugins
 
