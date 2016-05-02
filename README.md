@@ -37,7 +37,7 @@ A curated list of awesome tools, prompts and other cool nuggets for the amazing 
 - [Superman](https://github.com/fisherman/superman)
 - [Terran](https://github.com/fisherman/terran)
 
-### Community
+## Community
 
 - [StackOverflow](http://stackoverflow.com/questions/tagged/fish)
 - [`#fish` on OFTC](https://webchat.oftc.net/?channels=fish)
