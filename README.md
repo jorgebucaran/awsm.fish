@@ -1,5 +1,3 @@
-![](https://cloud.githubusercontent.com/assets/8317250/15172317/57694768-1790-11e6-91bd-e0f6af243779.png)
-
 # Awesome fish [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome tools, prompts and other cool nuggets for the amazing [fish-shell](https://github.com/fish-shell/fish-shell).
