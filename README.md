@@ -15,10 +15,10 @@ You will need a plugin manager to install the plugins and prompts listed on this
 - [Debug](https://github.com/fisherman/debug) - Conditional debug logger.
 - [Get](https://github.com/fisherman/get) - Interactive prompt reader.
 - [Getopts](https://github.com/fisherman/getopts) - Command line options parser.
-- [fin](https://github.com/fisherman/fin) - Node.js version manager.
-- [Fish-ssh-agent](https://github.com/herrbischoff/fish-ssh-agent) - Autostart ssh-agent function.
+- [Fin](https://github.com/fisherman/fin) - Node.js version manager.
 - [Fishtape](https://github.com/fisherman/fishtape) - TAP producing test runner.
 - [Segment](https://github.com/fisherman/segment) - Powerline prompt builder.
+- [Paths](https://travis-ci.org/fisherman/paths) - Create or append to environment variables.
 - [Shark](https://github.com/fisherman/shark) - Sparkline generator, inspired by @holman's Spark.
 - [Spin](https://github.com/fisherman/spin) - Background job spinner.
 - [Z](https://github.com/fisherman/z) - Pure-fish z directory jumping.
@@ -28,11 +28,13 @@ You will need a plugin manager to install the plugins and prompts listed on this
 ### Simple
 
 - [Cyber](https://github.com/fisherman/cyber)
+- [Sol](https://github.com/fisherman/sol)
 
 ### Powerline
 
 - [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish)
 - [Joker](https://github.com/fisherman/joker)
+- [Metro](https://github.com/fisherman/metro)
 - [Pure](https://github.com/rafaelrinaldi/pure)
 - [Sektor](https://github.com/fisherman/sektor)
 - [Shellder](https://github.com/simnalamburt/shellder)
