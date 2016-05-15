@@ -42,6 +42,11 @@ You will need a plugin manager to install the plugins and prompts listed on this
 - [Superman](https://github.com/fisherman/superman)
 - [Terran](https://github.com/fisherman/terran)
 
+## Reference
+
+- [fish tutorial](http://fishshell.com/docs/current/tutorial.html)
+- [fish cookbook](https://github.com/bucaran/fish-cookbook)
+
 ## Community
 
 - [StackOverflow](http://stackoverflow.com/questions/tagged/fish)
@@ -52,7 +57,6 @@ You will need a plugin manager to install the plugins and prompts listed on this
 ## Contributing
 
 Fork, add your amazing nugget and send a PR.
-
 
 ## License
 
