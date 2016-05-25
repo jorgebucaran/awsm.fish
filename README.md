@@ -6,6 +6,7 @@ A curated list of awesome tools, prompts and other cool nuggets for the amazing 
 
 You will need a plugin manager to install the plugins and prompts listed on this page.
 
+- [Fin](https://github.com/fisherman/fin)
 - [Fisherman](https://github.com/fisherman/fisherman)
 - [Fundle](https://github.com/tuvistavie/fundle)
 
