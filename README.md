@@ -46,7 +46,7 @@ You will need a plugin manager to install the plugins and prompts listed on this
 ## Reference
 
 - [Official Documentation](http://fishshell.com/docs/current/index.html)
-- [fish cookbook](https://github.com/bucaran/fish-cookbook) - Tips and recipes for fish-shell users
+- [fish cookbook](https://github.com/brj/fish-cookbook) - Tips and recipes for fish-shell users
 
 ## Community
 
