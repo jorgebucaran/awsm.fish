@@ -29,6 +29,7 @@ You will need a plugin manager to install the plugins and prompts listed on this
 ### Simple
 
 - [Cyber](https://github.com/fisherman/cyber)
+- [Simple](https://github.com/fisherman/simple)
 - [Sol](https://github.com/fisherman/sol)
 
 ### Powerline
