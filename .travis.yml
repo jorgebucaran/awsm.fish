@@ -1,7 +1,9 @@
 language: ruby
+notifications:
+  email: false
 rvm:
   - 2.2
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --allow-dupe --white-list webchat.oftc.net,www.reddit.com
+  - awesome_bot README.md --allow-dupe --allow-ssl --allow 429
