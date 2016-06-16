@@ -16,7 +16,7 @@ You will need a plugin manager to install the plugins and prompts listed on this
 - [Debug](https://github.com/fisherman/debug) - Conditional debug logger.
 - [Get](https://github.com/fisherman/get) - Interactive prompt reader.
 - [Getopts](https://github.com/fisherman/getopts) - Command line options parser.
-- [Fin](https://github.com/fisherman/fin) - Node.js version manager.
+- [Fnm](https://github.com/fisherman/fnm) - Node.js version manager.
 - [Fishtape](https://github.com/fisherman/fishtape) - TAP producing test runner.
 - [Segment](https://github.com/fisherman/segment) - Powerline prompt builder.
 - [Paths](https://travis-ci.org/fisherman/paths) - Create or append to environment variables.
