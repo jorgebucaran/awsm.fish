@@ -19,7 +19,7 @@ You will need a plugin manager to install the plugins and prompts listed on this
 - [Fnm](https://github.com/fisherman/fnm) - Node.js version manager.
 - [Fishtape](https://github.com/fisherman/fishtape) - TAP producing test runner.
 - [Segment](https://github.com/fisherman/segment) - Powerline prompt builder.
-- [Paths](https://travis-ci.org/fisherman/paths) - Create or append to environment variables.
+- [Paths](https://github.com/fisherman/paths) - Create or append to environment variables.
 - [Shark](https://github.com/fisherman/shark) - Sparkline generator, inspired by @holman's Spark.
 - [Spin](https://github.com/fisherman/spin) - Background job spinner.
 - [Z](https://github.com/fisherman/z) - Pure-fish z directory jumping.
