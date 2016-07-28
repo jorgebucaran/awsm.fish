@@ -2,14 +2,6 @@
 
 A curated list of awesome tools, prompts and other cool nuggets for the amazing [fish-shell](https://github.com/fish-shell/fish-shell).
 
-## Plugin Managers
-
-You will need a plugin manager to install the plugins and prompts listed on this page.
-
-- [Fin](https://github.com/fisherman/fin)
-- [Fisherman](https://github.com/fisherman/fisherman)
-- [Fundle](https://github.com/tuvistavie/fundle)
-
 ## Plugins
 
 - [Bass](https://github.com/edc/bass) - Make Bash utilities usable in fish.
