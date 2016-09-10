@@ -6,6 +6,7 @@ A curated list of awesome tools, prompts and other cool nuggets for the amazing 
 
 - [Bass](https://github.com/edc/bass) - Make Bash utilities usable in fish.
 - [Debug](https://github.com/fisherman/debug) - Conditional debug logger.
+- [DockerCompose](https://github.com/brgmnn/fish-docker-compose) - Docker Compose Autocompletions
 - [Get](https://github.com/fisherman/get) - Interactive prompt reader.
 - [Getopts](https://github.com/fisherman/getopts) - Command line options parser.
 - [Fnm](https://github.com/fisherman/fnm) - Node.js version manager.
