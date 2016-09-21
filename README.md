@@ -40,7 +40,7 @@ A curated list of awesome tools, prompts and other cool nuggets for the amazing 
 ## Reference
 
 - [Official Documentation](http://fishshell.com/docs/current/index.html)
-- [The fish cookbook](https://github.com/brj/fish-shell-cookbook) - Tips and recipes for fish-shell users
+- [The fish cookbook](https://github.com/fisherman/fish-shell-cookbook) - Tips and recipes for fish-shell users
 
 ## Community
 
@@ -56,4 +56,4 @@ Fork, add your amazing nugget and send a PR.
 
 ## License
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
