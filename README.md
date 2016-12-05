@@ -40,7 +40,7 @@ A curated list of awesome tools, prompts and other cool nuggets for the amazing 
 ## Reference
 
 - [Official Documentation](http://fishshell.com/docs/current/index.html)
-- [The fish cookbook](https://github.com/fisherman/fish-shell-cookbook) - Tips and recipes for fish-shell users
+- [The fish cookbook](https://github.com/jbucaran/fish-shell-cookbook) - Tips and recipes for fish-shell users
 
 ## Community
 
