@@ -45,9 +45,9 @@ A curated list of awesome tools, prompts and other cool nuggets for the amazing 
 
 ## Reference
 
-- [Official Documentation](http://fishshell.com/docs/current/index.html)
-- [The Fish Cookbook](https://github.com/jbucaran/fish-shell-cookbook) - Tips and recipes for fish-shell users
-- [Fisherman Homepage](http://fisherman.github.io)
+- [Official Documentation](http://fishshell.com/docs/current/index.html) - The ultimate source of fish truth.
+- [The Fish Cookbook](https://github.com/jbucaran/fish-shell-cookbook) - Learn the shell and fish with the Fish-Shell Cookbook. Low in fat, versatile, and healthful.
+- [Fisherman Homepage](http://fisherman.github.io) - Online search for plugins and more useful links.
 
 ## Community
 
