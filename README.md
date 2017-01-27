@@ -2,6 +2,10 @@
 
 A curated list of awesome tools, prompts and other cool nuggets for the amazing [fish-shell](https://github.com/fish-shell/fish-shell).
 
+## Plugin Managers
+
+- [Fisherman](https://github.com/fisherman/fisherman) - A plugin manager for fish.
+
 ## Plugins
 
 - [Bass](https://github.com/edc/bass) - Make Bash utilities usable in fish.
@@ -41,6 +45,7 @@ A curated list of awesome tools, prompts and other cool nuggets for the amazing 
 
 - [Official Documentation](http://fishshell.com/docs/current/index.html)
 - [The fish cookbook](https://github.com/jbucaran/fish-shell-cookbook) - Tips and recipes for fish-shell users
+- [Fisherman Homepage](http://fisherman.github.io)
 
 ## Community
 
