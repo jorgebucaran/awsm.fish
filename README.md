@@ -25,9 +25,11 @@ A curated list of awesome tools, prompts and other cool nuggets for the amazing 
 
 ### Simple
 
+- [Boss](https://github.com/fisherman/boss)
 - [Cyber](https://github.com/fisherman/cyber)
 - [Simple](https://github.com/fisherman/simple)
 - [Sol](https://github.com/fisherman/sol)
+- [Mono](https://github.com/fisherman/mono)
 
 ### Powerline
 
@@ -44,7 +46,7 @@ A curated list of awesome tools, prompts and other cool nuggets for the amazing 
 ## Reference
 
 - [Official Documentation](http://fishshell.com/docs/current/index.html)
-- [The fish cookbook](https://github.com/jbucaran/fish-shell-cookbook) - Tips and recipes for fish-shell users
+- [The Fish Cookbook](https://github.com/jbucaran/fish-shell-cookbook) - Tips and recipes for fish-shell users
 - [Fisherman Homepage](http://fisherman.github.io)
 
 ## Community
