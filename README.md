@@ -3,11 +3,9 @@
 A curated list of awesome tools, prompts and other cool nuggets for the amazing [fish-shell](https://github.com/fish-shell/fish-shell).
 
 ## Plugin Managers
-
 - [Fisherman](https://github.com/fisherman/fisherman) - A plugin manager for fish.
 
 ## Plugins
-
 - [Bass](https://github.com/edc/bass) - Make Bash utilities usable in fish.
 - [Debug](https://github.com/fisherman/debug) - Conditional debug logger.
 - [DockerCompose](https://github.com/brgmnn/fish-docker-compose) - Docker Compose Autocompletions
@@ -22,9 +20,7 @@ A curated list of awesome tools, prompts and other cool nuggets for the amazing 
 - [Z](https://github.com/fisherman/z) - Pure-fish z directory jumping.
 
 ## Prompts
-
 ### Simple
-
 - [Boss](https://github.com/fisherman/boss)
 - [Cyber](https://github.com/fisherman/cyber)
 - [Simple](https://github.com/fisherman/simple)
@@ -32,7 +28,6 @@ A curated list of awesome tools, prompts and other cool nuggets for the amazing 
 - [Mono](https://github.com/fisherman/mono)
 
 ### Powerline
-
 - [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish)
 - [Joker](https://github.com/fisherman/joker)
 - [Metro](https://github.com/fisherman/metro)
@@ -44,12 +39,10 @@ A curated list of awesome tools, prompts and other cool nuggets for the amazing 
 - [Terran](https://github.com/fisherman/terran)
 
 ## Reference
-
 - [Official Documentation](http://fishshell.com/docs/current/index.html) - The ultimate source of fish truth.
-- [The Fish Cookbook](https://github.com/jbucaran/fish-shell-cookbook) - Low in fat, versatile, and healthful.
+- [The fish-shell Cookbook](https://github.com/jbucaran/fish-shell-cookbook) - Tips and recipes for fish, from shell to plate. Comprehensive. Friendly. Indispensable.
 
 ## Community
-
 - [StackOverflow](http://stackoverflow.com/questions/tagged/fish)
 - [`#fish` on OFTC](https://webchat.oftc.net/?channels=fish)
 - [Reddit](https://www.reddit.com/r/fishshell/)
@@ -57,13 +50,10 @@ A curated list of awesome tools, prompts and other cool nuggets for the amazing 
 - [Fisherman on Slack](https://fisherman-wharf.herokuapp.com)
 
 ## Other
-
 - [Fisherman Homepage](http://fisherman.github.io) - Online plugin search.
 
 ## Contributing
-
 Fork, add your amazing nugget and send a PR.
 
 ## License
-
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
