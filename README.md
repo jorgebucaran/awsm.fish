@@ -2,22 +2,22 @@
 A curated list of awesome tools, prompts and other cool nuggets for the amazing [fish-shell](https://github.com/fish-shell/fish-shell).
 
 ## Plugin Managers
-- [Fisherman](https://github.com/fisherman/fisherman) - A plugin manager for fish
-- [Fin](https://github.com/fisherman/fin) - Simple plugin manager for fish
+- [Fisherman](https://github.com/fisherman/fisherman) - A plugin manager for fish.
+- [Fin](https://github.com/fisherman/fin) - Simple plugin manager for fish.
 
 ## Plugins
-- [Bass](https://github.com/edc/bass) - Make Bash utilities usable in fish
-- [Debug](https://github.com/fisherman/debug) - Conditional debug logger
-- [DockerCompose](https://github.com/brgmnn/fish-docker-compose) - Docker Compose Autocompletions
-- [Get](https://github.com/fisherman/get) - Interactive prompt reader
-- [Getopts](https://github.com/fisherman/getopts) - Command line options parser
-- [Fnm](https://github.com/fisherman/fnm) - Node.js version manager
-- [Fishtape](https://github.com/fisherman/fishtape) - TAP producing test runner
-- [Segment](https://github.com/fisherman/segment) - Powerline prompt builder
-- [Paths](https://github.com/fisherman/paths) - Create or append to environment variables
-- [Shark](https://github.com/fisherman/shark) - Sparkline generator, inspired by @holman's Spark
-- [Spin](https://github.com/fisherman/spin) - Background job spinner
-- [Z](https://github.com/fisherman/z) - Pure-fish z directory jumping
+- [Bass](https://github.com/edc/bass) - Make Bash utilities usable in fish.
+- [Debug](https://github.com/fisherman/debug) - Conditional debug logger.
+- [DockerCompose](https://github.com/brgmnn/fish-docker-compose) - Docker Compose Autocompletions.
+- [Get](https://github.com/fisherman/get) - Interactive prompt reader.
+- [Getopts](https://github.com/fisherman/getopts) - Command line options parser.
+- [Fnm](https://github.com/fisherman/fnm) - Node.js version manager.
+- [Fishtape](https://github.com/fisherman/fishtape) - TAP producing test runner.
+- [Segment](https://github.com/fisherman/segment) - Powerline prompt builder.
+- [Paths](https://github.com/fisherman/paths) - Create or append to environment variables.
+- [Shark](https://github.com/fisherman/shark) - Sparkline generator, inspired by @holman's Spark.
+- [Spin](https://github.com/fisherman/spin) - Background job spinner.
+- [Z](https://github.com/fisherman/z) - Pure-fish z directory jumping.
 
 ## Prompts
 ### Simple
@@ -39,8 +39,8 @@ A curated list of awesome tools, prompts and other cool nuggets for the amazing 
 - [Terran](https://github.com/fisherman/terran)
 
 ## Reference
-- [Official Documentation](http://fishshell.com/docs/current/index.html) - The ultimate source of fish truth
-- [The Cookbook](https://github.com/jbucaran/fish-shell-cookbook) - Tips and recipes for fish, from shell to plate
+- [Official Documentation](http://fishshell.com/docs/current/index.html) - The ultimate source of fish truth.
+- [The Cookbook](https://github.com/jbucaran/fish-shell-cookbook) - Tips and recipes for fish, from shell to plate. Comprehensive. Friendly. Indispensable.
 
 ## Community
 - [StackOverflow](http://stackoverflow.com/questions/tagged/fish)
