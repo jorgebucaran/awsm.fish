@@ -2,9 +2,9 @@
 A curated list of awesome tools, prompts and other cool nuggets for the amazing [fish-shell](https://github.com/fish-shell/fish-shell).
 
 ## Plugin Managers
-- [Fisherman](https://github.com/fisherman/fisherman) - A plugin manager for fish.
-- [Fin](https://github.com/fisherman/fin) - Simple plugin manager for fish.
-- [Fundle](https://github.com/tuvistavie/fundle) - A minimalist package manager for fish shell
+- [Fisherman](https://github.com/fisherman/fisherman)
+- [Fin](https://github.com/fisherman/fin)
+- [Fundle](https://github.com/tuvistavie/fundle)
 
 ## Plugins
 - [Bass](https://github.com/edc/bass) - Make Bash utilities usable in fish.
