@@ -1,6 +1,9 @@
 # Awesome fish [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome tools, prompts and other cool nuggets for the amazing [fish-shell](https://github.com/fish-shell/fish-shell).
 
+## Frameworks
+- [Oh My Fish](https://github.com/oh-my-fish/oh-my-fish) - The Fishshell Framework.
+
 ## Plugin Managers
 - [Fisherman](https://github.com/fisherman/fisherman)
 - [Fin](https://github.com/fisherman/fin)
