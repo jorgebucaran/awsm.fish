@@ -2,20 +2,20 @@
 A curated list of awesome tools, prompts and other cool nuggets for the amazing [fish-shell](https://github.com/fish-shell/fish-shell).
 
 ## Plugin Managers
-- [Fisherman](https://github.com/fisherman/fisherman)
 - [Fin](https://github.com/fisherman/fin)
+- [Fisherman](https://github.com/fisherman/fisherman)
 - [Fundle](https://github.com/tuvistavie/fundle)
 
 ## Plugins
 - [Bass](https://github.com/edc/bass) - Make Bash utilities usable in fish.
 - [Debug](https://github.com/fisherman/debug) - Conditional debug logger.
 - [DockerCompose](https://github.com/brgmnn/fish-docker-compose) - Docker Compose Autocompletions.
+- [Fishtape](https://github.com/fisherman/fishtape) - TAP producing test runner.
+- [Fnm](https://github.com/fisherman/fnm) - Node.js version manager.
 - [Get](https://github.com/fisherman/get) - Interactive prompt reader.
 - [Getopts](https://github.com/fisherman/getopts) - Command line options parser.
-- [Fnm](https://github.com/fisherman/fnm) - Node.js version manager.
-- [Fishtape](https://github.com/fisherman/fishtape) - TAP producing test runner.
-- [Segment](https://github.com/fisherman/segment) - Powerline prompt builder.
 - [Paths](https://github.com/fisherman/paths) - Create or append to environment variables.
+- [Segment](https://github.com/fisherman/segment) - Powerline prompt builder.
 - [Shark](https://github.com/fisherman/shark) - Sparkline generator, inspired by @holman's Spark.
 - [Spin](https://github.com/fisherman/spin) - Background job spinner.
 - [Z](https://github.com/fisherman/z) - Pure-fish z directory jumping.
@@ -24,9 +24,9 @@ A curated list of awesome tools, prompts and other cool nuggets for the amazing 
 ### Simple
 - [Boss](https://github.com/fisherman/boss)
 - [Cyber](https://github.com/fisherman/cyber)
+- [Mono](https://github.com/fisherman/mono)
 - [Simple](https://github.com/fisherman/simple)
 - [Sol](https://github.com/fisherman/sol)
-- [Mono](https://github.com/fisherman/mono)
 
 ### Powerline
 - [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish)
