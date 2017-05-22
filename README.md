@@ -2,7 +2,7 @@
 A curated list of awesome tools, prompts and other cool nuggets for the amazing [fish-shell](https://github.com/fish-shell/fish-shell).
 
 ## Frameworks
-- [Oh My Fish](https://github.com/oh-my-fish/oh-my-fish) - The Fishshell Framework.
+- [Oh My Fish](https://github.com/oh-my-fish/oh-my-fish)
 
 ## Plugin Managers
 - [Fin](https://github.com/fisherman/fin)
@@ -46,12 +46,7 @@ A curated list of awesome tools, prompts and other cool nuggets for the amazing 
 - [Official Documentation](http://fishshell.com/docs/current/index.html) - The ultimate source of fish truth.
 - [The Cookbook](https://github.com/jbucaran/fish-shell-cookbook) - Tips and recipes for fish, from shell to plate. Comprehensive. Friendly. Indispensable.
 
-## Community
-- [StackOverflow](http://stackoverflow.com/questions/tagged/fish)
-- [`#fish` on OFTC](https://webchat.oftc.net/?channels=fish)
-- [Reddit](https://www.reddit.com/r/fishshell/)
-- [Gitter.im Channel](https://gitter.im/fish-shell/fish-shell)
-- [Fisherman on Slack](https://fisherman-wharf.herokuapp.com)
+
 
 ## Other
 - [Fisherman Homepage](http://fisherman.github.io) - Online plugin search.
