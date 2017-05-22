@@ -1,13 +1,26 @@
 # Awesome fish [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome tools, prompts and other cool nuggets for the amazing [fish-shell](https://github.com/fish-shell/fish-shell).
 
-## Frameworks
-- [Oh My Fish](https://github.com/oh-my-fish/oh-my-fish)
+To contribute, fork this repository, add your amazing nugget and send us a PR.
 
-## Plugin Managers
+## Community
+- [`#fish` on OFTC](https://webchat.oftc.net/?channels=fish)
+- [Gitter.im Channel](https://gitter.im/fish-shell/fish-shell)
+- [StackOverflow](http://stackoverflow.com/questions/tagged/fish)
+- [r/fishshell](https://www.reddit.com/r/fishshell/)
+- [`#fisherman` on Slack](https://fisherman-wharf.herokuapp.com)
+
+## Learning
+- [Documentation](http://fishshell.com/docs/current/index.html)
+- [The fish-shell cookbook](https://github.com/jbucaran/fish-shell-cookbook)
+
+## Frameworks
+- [Fisherman](https://github.com/fisherman/fisherman)
 - [Fin](https://github.com/fisherman/fin)
 - [Fisherman](https://github.com/fisherman/fisherman)
 - [Fundle](https://github.com/tuvistavie/fundle)
+- [Fresco](https://github.com/masa0x80/fresco)
+- [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish)
 
 ## Plugins
 - [Bass](https://github.com/edc/bass) - Make Bash utilities usable in fish.
@@ -23,14 +36,7 @@ A curated list of awesome tools, prompts and other cool nuggets for the amazing 
 - [Spin](https://github.com/fisherman/spin) - Background job spinner.
 - [Z](https://github.com/fisherman/z) - Pure-fish z directory jumping.
 
-## Prompts
-### Simple
-- [Boss](https://github.com/fisherman/boss)
-- [Cyber](https://github.com/fisherman/cyber)
-- [Mono](https://github.com/fisherman/mono)
-- [Simple](https://github.com/fisherman/simple)
-- [Sol](https://github.com/fisherman/sol)
-
+## Themes
 ### Powerline
 - [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish)
 - [Joker](https://github.com/fisherman/joker)
@@ -42,14 +48,12 @@ A curated list of awesome tools, prompts and other cool nuggets for the amazing 
 - [Superman](https://github.com/fisherman/superman)
 - [Terran](https://github.com/fisherman/terran)
 
-## Reference
-- [Official Documentation](http://fishshell.com/docs/current/index.html) - The ultimate source of fish truth.
-- [The Cookbook](https://github.com/jbucaran/fish-shell-cookbook) - Tips and recipes for fish, from shell to plate. Comprehensive. Friendly. Indispensable.
+### Non-Powerline
+- [Boss](https://github.com/fisherman/boss)
+- [Cyber](https://github.com/fisherman/cyber)
+- [Simple](https://github.com/fisherman/simple)
+- [Sol](https://github.com/fisherman/sol)
+- [Mono](https://github.com/fisherman/mono)
 
 
 
-## Other
-- [Fisherman Homepage](http://fisherman.github.io) - Online plugin search.
-
-## Contributing
-Fork, add your amazing nugget and send a PR.
