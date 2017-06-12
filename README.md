@@ -1,4 +1,5 @@
-# Awesome fish [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome fish 
+
 A curated list of awesome tools, prompts and other cool nuggets for the amazing [fish-shell](https://github.com/fish-shell/fish-shell).
 
 To contribute, fork this repository, add your amazing nugget and send us a PR.
