@@ -42,6 +42,7 @@ To contribute, fork this repository, add your amazing nugget and send us a PR.
 - [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish)
 - [Joker](https://github.com/fisherman/joker)
 - [Metro](https://github.com/fisherman/metro)
+- [Powerfish](https://github.com/radek-sprta/powerfish)
 - [Pure](https://github.com/rafaelrinaldi/pure)
 - [Sektor](https://github.com/fisherman/sektor)
 - [Shellder](https://github.com/simnalamburt/shellder)
