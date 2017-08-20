@@ -32,7 +32,7 @@ To contribute, fork this repository, add your amazing nugget and send us a PR.
 - [Get](https://github.com/fisherman/get) - Interactive prompt reader.
 - [Getopts](https://github.com/fisherman/getopts) - Command line options parser.
 - [Paths](https://github.com/fisherman/paths) - Create or append to environment variables.
-- [Segment](https://github.com/fisherman/segment) - Powerline prompt builder.
+- [Pisces](https://github.com/laughedelic/pisces) - Autocloses parentheses, braces, quotes and other paired symbols.
 - [Shark](https://github.com/fisherman/shark) - Sparkline generator, inspired by @holman's Spark.
 - [Spin](https://github.com/fisherman/spin) - Background job spinner.
 - [Z](https://github.com/fisherman/z) - Pure-fish z directory jumping.
