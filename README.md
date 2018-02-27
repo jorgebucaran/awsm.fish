@@ -1,4 +1,4 @@
-# Awesome <samp>fish-shell</samp>
+# Awesome fish-shell
 
 A curated list of awesome tools, prompts and other cool nuggets for the amazing [fish-shell](https://github.com/fish-shell/fish-shell).
 
