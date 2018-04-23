@@ -31,6 +31,7 @@ To contribute, fork this repository, add your amazing nugget and send a PR.
 * [laughedelic/pisces](https://github.com/laughedelic/pisces) - Autocloses parentheses, braces, quotes and other paired symbols.
 * [fisherman/shark](https://github.com/fisherman/shark) - Sparkline generator, inspired by @holman's Spark.
 * [fisherman/z](https://github.com/fisherman/z) - Pure-fish z directory jumping.
+* [smh/base16-shell-fish](https://github.com/smh/base16-shell-fish) - Fast and easy fisherman plugin for switching your [base16-shell theme](https://github.com/chriskempson/base16-shell)
 
 ## Simple Prompts
 
