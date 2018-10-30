@@ -10,7 +10,6 @@ To contribute, fork this repository, add your amazing nugget and send a PR.
 * [Gitter.im Channel](https://gitter.im/fish-shell/fish-shell)
 * [StackOverflow](http://stackoverflow.com/questions/tagged/fish)
 * [r/fishshell](https://www.reddit.com/r/fishshell/)
-* [<samp>#fisherman</samp> on Slack](https://fisherman-wharf.herokuapp.com)
 
 ## Learning
 
