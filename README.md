@@ -32,6 +32,14 @@ To contribute, fork this repository, add your amazing nugget and send a PR.
 * [fisherman/z](https://github.com/fisherman/z) - Pure-fish z directory jumping.
 * [smh/base16-shell-fish](https://github.com/smh/base16-shell-fish) - Fast and easy fisherman plugin for switching your [base16-shell theme](https://github.com/chriskempson/base16-shell)
 
+**Various links with plugin lists:**
+* [Oh My Fish packages](https://github.com/oh-my-fish/packages-main/tree/master/packages): Package list compatible with Oh My Fish and Fisher (note: to install you need the repository owner/name).
+* [Fundle wiki](https://github.com/danhper/fundle/wiki): Another list of Fisher/Fundle/OhMyFish compatible packages.
+* [fish-plugins topic](https://github.com/topics/fish-plugins): Repos tagged with the `fish-plugins` topic.
+* [fish-plugin topic](https://github.com/topics/fish-plugin): Repos tagged with the `fish-plugin` topic.
+* [fisherman topic](https://github.com/topics/fisherman): Repos tagged with the `fisherman` topic.
+
+
 ## Simple Prompts
 
 * [fisherman/metro](https://github.com/fisherman/metro) - Powerline prompt optimized for speed and space.
