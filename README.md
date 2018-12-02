@@ -23,6 +23,7 @@ To contribute, fork this repository, add your amazing nugget and send a PR.
 
 ## Plugins
 
+* [rodrigobdz/fish-apple-touchbar](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your Touch Bar in iTerm2 using fish.
 * [edc/bass](https://github.com/edc/bass) - Make Bash utilities usable in fish.
 * [fisherman/fishtape](https://github.com/fisherman/fishtape) - TAP producing test runner.
 * [fisherman/fnm](https://github.com/fisherman/fnm) - Node.js version manager.
