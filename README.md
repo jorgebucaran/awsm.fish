@@ -60,10 +60,10 @@ A package manager makes it easy to extend your shell capabilities, change the lo
 
 ###### GitHub Topics
 
-- [`#fisher`](https://github.com/topics/fisher)
-- [`#oh-my-fish`](https://github.com/topics/oh-my-fish)
-- [`#fish-plugin`](https://github.com/topics/fish-plugin)
-- [`#fish-package`](https://github.com/topics/fish-package)
+- [<samp>#fisher</samp>](https://github.com/topics/fisher)
+- [<samp>#oh-my-fish</samp>](https://github.com/topics/oh-my-fish)
+- [<samp>#fish-plugin</samp>](https://github.com/topics/fish-plugin)
+- [<samp>#fish-package</samp>](https://github.com/topics/fish-package)
 
 ## Prompts
 
