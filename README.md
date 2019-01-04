@@ -1,6 +1,6 @@
 # Awesome Fish
 
-<!-- [![Slack Widget](https://img.shields.io/badge/join-us%20on%20slack-gray.svg?longCache=true&logo=slack&colorB=orange)](http://xxxxxxxx.slack.com/messages/awesome) -->
+<!-- [![Slack Widget](https://img.shields.io/badge/join-us%20on%20slack-gray.svg?longCache=true&logo=slack&colorB=red)](https://fishshell.slack.com/messages) -->
 
 A curated list of awesome packages, prompts and other nuggets for the [fish shell](https://github.com/fish-shell/fish-shell).
 
@@ -31,16 +31,16 @@ A package manager makes it easy to extend your shell capabilities, change the lo
 ###### Utilities
 
 - [jorgebucaran/**fishopts**](https://github.com/jorgebucaran/fishopts) - CLI options parser alternative to argparse
-- [jorgebucaran/**shark**](https://github.com/jorgebucaran/shark) - Sparkline generator, inspired by @holman's Spark
+- [jorgebucaran/**shark**](https://github.com/jorgebucaran/shark) - Pure-fish sparkline generator ([holman/spark](https://github.com/holman/spark) port)
 
 ###### Directory Management
 
-- [jethrokuan/**z**](https://github.com/jethrokuan/z) - Pure-fish z directory jumping
+- [jethrokuan/**z**](https://github.com/jethrokuan/z) - Pure-fish [rupa/z](https://github.com/rupa/z)-like directory jumping
 
 ###### Node.js
 
-- [brigand/**fast-nvm-fish**](https://github.com/brigand/fast-nvm-fish) - Efficient [nvm](https://github.com/creationix/nvm) wrapper
-- [FabioAntunes/**fish-nvm**](https://github.com/FabioAntunes/fish-nvm) - Completion-rich [nvm](https://github.com/creationix/nvm) wrapper
+- [brigand/**fast-nvm-fish**](https://github.com/brigand/fast-nvm-fish) - Enhanced [nvm](https://github.com/creationix/nvm) wrapper optimized for speed
+- [FabioAntunes/**fish-nvm**](https://github.com/FabioAntunes/fish-nvm) - Completion-rich, true [nvm](https://github.com/creationix/nvm) wrapper
 - [jorgebucaran/**fish-n**](https://github.com/jorgebucaran/fnm) - Pure-fish, no bullshit Node.js version manager
 
 ###### Testing
@@ -71,7 +71,7 @@ A package manager makes it easy to extend your shell capabilities, change the lo
 
 - [jorgebucaran/**fish-sol**](https://github.com/jorgebucaran/fish-fresh) - True minimal prompt
 - [matchai/**spacefish**](https://github.com/matchai/spacefish) - Space-themed prompt for astronauts
-- [rafaelrinaldi/**pure**](https://github.com/rafaelrinaldi/pure) - Pure-fish port of [sindresorhus/**pure**](https://github.com/sindresorhus/pure) prompt
+- [rafaelrinaldi/**pure**](https://github.com/rafaelrinaldi/pure) - Pure-fish port of [sindresorhus/pure](https://github.com/sindresorhus/pure) prompt
 
 ###### Powerline
 
