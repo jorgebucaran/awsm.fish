@@ -1,51 +1,88 @@
-# Awesome fish-shell
+# Awesome Fish
 
-A curated list of awesome tools, prompts and other cool nuggets for the amazing [fish-shell](https://github.com/fish-shell/fish-shell).
+<!-- [![Slack Widget](https://img.shields.io/badge/join-us%20on%20slack-gray.svg?longCache=true&logo=slack&colorB=orange)](http://xxxxxxxx.slack.com/messages/awesome) -->
 
-To contribute, fork this repository, add your amazing nugget and send a PR.
+A curated list of awesome packages, prompts and other nuggets for the [fish shell](https://github.com/fish-shell/fish-shell).
+
+Want to contribute? Fork this repository, add your amazing project and send us a PR. If you see a package or project here that is no longer maintained or is not a good fit, help us improve this file. Thank you!
 
 ## Community
 
-* [<samp>#fish</samp> on OFTC](https://webchat.oftc.net/?channels=fish)
-* [Gitter.im Channel](https://gitter.im/fish-shell/fish-shell)
-* [StackOverflow](http://stackoverflow.com/questions/tagged/fish)
-* [r/fishshell](https://www.reddit.com/r/fishshell/)
+- [r/fishshell](https://www.reddit.com/r/fishshell/)
+- [Gitter Channel](https://gitter.im/fish-shell/fish-shell)
+- [StackOverflow](http://stackoverflow.com/questions/tagged/fish)
 
-## Learning
+## Package Managers
 
-* [Official Documentation](http://fishshell.com/docs/current/index.html)
-* [The fish-shell cookbook](https://github.com/jorgebucaran/fish-shell-cookbook)
+A package manager makes it easy to extend your shell capabilities, change the look of your prompt and create repeatable configurations across different systems.
 
-## Plugin Managers & Frameworks
+- [Fisher](https://github.com/jorgebucaran/fisher) - npm/Yarn-inspired design
+- [Fundle](https://github.com/danhper/fundle) - For vundle.vim lovers
+- [Oh My Fish](https://github.com/oh-my-fish/oh-my-fish) - Oh My Zsh meets fish
 
-* [Fisher](https://github.com/jorgebucaran/fisher) - The fish-shell plugin manager.
-* [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) - The fish-shell framework.
+[Need help choosing?](https://github.com/jorgebucaran/fisher/issues/481)
 
-## Plugins
+## Packages
 
-* [rodrigobdz/fish-apple-touchbar](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your Touch Bar in iTerm2 using fish.
-* [edc/bass](https://github.com/edc/bass) - Make Bash utilities usable in fish.
-* [jorgebucaran/fishtape](https://github.com/jorgebucaran/fishtape) - TAP producing test runner.
-* [jorgebucaran/fnm](https://github.com/jorgebucaran/fnm) - Node.js version manager.
-* [jorgebucaran/getopts](https://github.com/jorgebucaran/fishopts) - Command line options parser.
-* [laughedelic/pisces](https://github.com/laughedelic/pisces) - Autocloses parentheses, braces, quotes and other paired symbols.
-* [jorgebucaran/shark](https://github.com/jorgebucaran/shark) - Sparkline generator, inspired by @holman's Spark.
-* [jethrokuan/z](https://github.com/jethrokuan/z) - Pure-fish z directory jumping.
-* [smh/base16-shell-fish](https://github.com/smh/base16-shell-fish) - Fast and easy fisherman plugin for switching your [base16-shell theme](https://github.com/chriskempson/base16-shell)
+###### Interoperability
 
-**Various links with plugin lists:**
-* [Oh My Fish packages](https://github.com/oh-my-fish/packages-main/tree/master/packages): Package list compatible with Oh My Fish and Fisher (note: to install you need the repository owner/name).
-* [Fundle wiki](https://github.com/danhper/fundle/wiki): Another list of Fisher/Fundle/OhMyFish compatible packages.
-* [fish-plugins topic](https://github.com/topics/fish-plugins): Repos tagged with the `fish-plugins` topic.
-* [fish-plugin topic](https://github.com/topics/fish-plugin): Repos tagged with the `fish-plugin` topic.
-* [fisherman topic](https://github.com/topics/fisherman): Repos tagged with the `fisherman` topic.
+- [edc/**bass**](https://github.com/edc/bass) - Make Bash utilities usable in fish
 
+###### Utilities
 
-## Simple Prompts
+- [jorgebucaran/**fishopts**](https://github.com/jorgebucaran/fishopts) - CLI options parser alternative to argparse
+- [jorgebucaran/**shark**](https://github.com/jorgebucaran/shark) - Sparkline generator, inspired by @holman's Spark
 
-* [matchai/spacefish](https://github.com/matchai/spacefish) - A Fish Shell prompt for Astronauts.
-* [jorgebucaran/fish-metro](https://github.com/jorgebucaran/fish-metro) - Powerline prompt optimized for speed and space.
-* [rafaelrinaldi/pure](https://github.com/rafaelrinaldi/pure) - Port of the <samp>pure</samp> ZSH prompt to Fish.
-* [oh-my-fish/theme-bobthefish](https://github.com/oh-my-fish/theme-bobthefish) - A Powerline-style, Git-aware fish theme optimized for awesome.
-* [oh-my-fish/theme-cbjohnson](https://github.com/oh-my-fish/theme-cbjohnson)
-* [jorgebucaran/fish-sol](https://github.com/jorgebucaran/fish-sol) - Simple prompt [archived].
+###### Directory Management
+
+- [jethrokuan/**z**](https://github.com/jethrokuan/z) - Pure-fish z directory jumping
+
+###### Node.js
+
+- [brigand/**fast-nvm-fish**](https://github.com/brigand/fast-nvm-fish) - Efficient [nvm](https://github.com/creationix/nvm) wrapper
+- [FabioAntunes/**fish-nvm**](https://github.com/FabioAntunes/fish-nvm) - Completion-rich [nvm](https://github.com/creationix/nvm) wrapper
+- [jorgebucaran/**fish-n**](https://github.com/jorgebucaran/fnm) - Pure-fish, no bullshit Node.js version manager
+
+###### Testing
+
+- [jorgebucaran/**fishtape**](https://github.com/jorgebucaran/fishtape) - TAP producing test runner
+
+###### Productivity
+
+- [rodrigobdz/**fish-apple-touchbar**](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your Touch Bar in iTerm2
+- [laughedelic/**pisces**](https://github.com/laughedelic/pisces) - Autoclose parentheses, braces, quotes and other paired symbols
+
+###### Other
+
+- [smh/**base16-shell-fish**](https://github.com/smh/base16-shell-fish) - Switch your [base16-shell](https://github.com/chriskempson/base16-shell) theme interactively
+- [danhper/**fish-ssh-agent**](https://github.com/danhper/fish-ssh-agent) - Utility functions to start your ssh agent
+- [oh-my-fish/**packages-main**](https://github.com/oh-my-fish/packages-main/tree/master/packages) - Oh My Fish official package repository
+
+###### GitHub Topics
+
+- [`#fisher`](https://github.com/topics/fisher)
+- [`#oh-my-fish`](https://github.com/topics/oh-my-fish)
+- [`#fish-plugin`](https://github.com/topics/fish-plugin)
+- [`#fish-package`](https://github.com/topics/fish-package)
+
+## Prompts
+
+###### Classic
+
+- [jorgebucaran/**fish-sol**](https://github.com/jorgebucaran/fish-fresh) - True minimal prompt
+- [matchai/**spacefish**](https://github.com/matchai/spacefish) - Space-themed prompt for astronauts
+- [rafaelrinaldi/**pure**](https://github.com/rafaelrinaldi/pure) - Pure-fish port of [sindresorhus/**pure**](https://github.com/sindresorhus/pure) prompt
+
+###### Powerline
+
+- [hauleth/**agnoster**](https://github.com/hauleth/agnoster) - Solarized, git-aware, powerline prompt
+- [jorgebucaran/**fish-metro**](https://github.com/jorgebucaran/fish-metro) - Fast, space-conscious, powerline prompt
+- [oh-my-fish/**theme-bobthefish**](https://github.com/oh-my-fish/theme-bobthefish) - Robust, git-aware, powerline prompt
+
+---
+
+## License
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+Please provide a link back to this repository. This is not necessary for GitHub forks.
