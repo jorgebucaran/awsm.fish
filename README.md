@@ -4,12 +4,6 @@ A curated list of awesome packages, prompts and other nuggets for the [fish shel
 
 Want to contribute? Fork this repository, add your project and send us a PR. If you see a project here that is not maintained or is not a good fit, help us improve this file. Still looking for more? [Explore](https://github.com/topics/fish-shell) [these](https://github.com/topics/fish-packages) [GitHub](https://github.com/topics/fisher) [topics](https://github.com/topics/fish-prompt).
 
-## Community
-
-- [r/fishshell](https://www.reddit.com/r/fishshell/)
-- [Gitter Channel](https://gitter.im/fish-shell/fish-shell)
-- [StackOverflow](http://stackoverflow.com/questions/tagged/fish)
-
 ## Package Managers
 
 A package manager makes it easy to extend your shell capabilities, change the look of your prompt and create repeatable configurations across different systems.
@@ -18,23 +12,18 @@ A package manager makes it easy to extend your shell capabilities, change the lo
 - [Fundle](https://github.com/danhper/fundle) - For vundle.vim fans, configuration-first design
 - [Oh My Fish](https://github.com/oh-my-fish/oh-my-fish) - Oh My Zsh meets fish
 
-[Need help choosing?](https://github.com/jorgebucaran/fisher/issues/481)
+> ✋ [Need help choosing?](https://github.com/jorgebucaran/fisher/issues/481)
 
 ## Packages
-
-###### Interoperability
-
-- [edc/**bass**](https://github.com/edc/bass) - Make Bash utilities usable in fish
-
-###### Utilities
-
-- [fishpkg/**fish-humanize-duration**](https://github.com/fishpkg/fish-humanize-duration) - Make a time interval human readable
-- [fishpkg/**fish-get-file-age**](https://github.com/fishpkg/fish-get-file-age) - Get the number of seconds since a file was last modified
-- [jorgebucaran/**fish-getopts**](https://github.com/jorgebucaran/fish-getopts) - CLI options parser alternative to the [`argparse`](https://fishshell.com/docs/current/commands.html#argparse) builtin
 
 ###### Directory Management
 
 - [jethrokuan/**z**](https://github.com/jethrokuan/z) - Pure-fish [rupa/z](https://github.com/rupa/z)-like directory jumping
+
+###### Environment
+
+- [danhper/**fish-ssh-agent**](https://github.com/danhper/fish-ssh-agent) - Utility functions to start your ssh agent
+- [edc/**bass**](https://github.com/edc/bass) - Make Bash utilities usable in fish
 
 ###### Node.js
 
@@ -46,17 +35,23 @@ A package manager makes it easy to extend your shell capabilities, change the lo
 
 - [jorgebucaran/**fishtape**](https://github.com/jorgebucaran/fishtape) - TAP producing test runner
 
+###### Oh My Fish
+
+- [oh-my-fish/**packages-main**](https://github.com/oh-my-fish/packages-main/tree/master/packages) - Oh My Fish official package repository
+- [danhper/**oh-my-fish-core**](https://github.com/danhper/oh-my-fish-core) - Oh My Fish compatibility layer for Fundle or Fisher
+
 ###### Productivity
 
 - [rodrigobdz/**fish-apple-touchbar**](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your Touch Bar in iTerm2
 - [laughedelic/**pisces**](https://github.com/laughedelic/pisces) - Autoclose parentheses, braces, quotes and other paired symbols
 
-###### Other
+###### Utilities
 
-- [danhper/**fish-ssh-agent**](https://github.com/danhper/fish-ssh-agent) - Utility functions to start your ssh agent
+- [fishpkg/**fish-humanize-duration**](https://github.com/fishpkg/fish-humanize-duration) - Make a time interval human readable
+- [fishpkg/**fish-get-file-age**](https://github.com/fishpkg/fish-get-file-age) - Get the number of seconds since a file was last modified
+- [jorgebucaran/**fish-getopts**](https://github.com/jorgebucaran/fish-getopts) - CLI options parser alternative to the [`argparse`](https://fishshell.com/docs/current/commands.html#argparse) builtin
 - [jorgebucaran/**fish-spark**](https://github.com/jorgebucaran/fish-spark) - Pure-fish sparkline generator ([holman/spark](https://github.com/holman/spark) port)
 - [smh/**base16-shell-fish**](https://github.com/smh/base16-shell-fish) - Switch your [base16-shell](https://github.com/chriskempson/base16-shell) theme interactively
-- [oh-my-fish/**packages-main**](https://github.com/oh-my-fish/packages-main/tree/master/packages) - Oh My Fish official package repository
 
 ## Prompts
 
@@ -74,10 +69,25 @@ A package manager makes it easy to extend your shell capabilities, change the lo
 
 ## Resources
 
-- [Homepage](https://fishshell.com)
+Where to learn and discover more about the fish shell.
+
+###### Twitter
+
+- [@fishshellHQ](https://twitter.com/fishshellHQ)
+- [@OhMyFishShell](https://twitter.com/ohmyfishshell)
+
+###### Learning
+
 - [Try in Browser!](https://rootnroll.com/d/fish-shell)
 - [The Fish Cookbook](https://github.com/jorgebucaran/fish-cookbook)
 - [Official Documentation](https://fishshell.com/docs/current/index.html)
+
+###### Websites
+
+- [r/fishshell](https://www.reddit.com/r/fishshell/)
+- [Homepage](https://fishshell.com)
+- [Gitter Channel](https://gitter.im/fish-shell/fish-shell)
+- [Trending on GitHub](https://github.com/trending/shell)
 
 ## License
 
