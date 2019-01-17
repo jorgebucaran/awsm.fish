@@ -66,12 +66,18 @@ A package manager makes it easy to extend your shell capabilities, change the lo
 - [hauleth/**agnoster**](https://github.com/hauleth/agnoster) - Solarized, git-aware, powerline prompt
 - [oh-my-fish/**theme-bobthefish**](https://github.com/oh-my-fish/theme-bobthefish) - Robust, git-aware, powerline prompt
 
-## Links
+## Learning
+
+- [Homepage](https://fishshell.com)
+- [Try in Browser!](https://rootnroll.com/d/fish-shell)
+- [The Fish Cookbook](https://github.com/jorgebucaran/fish-cookbook)
+- [Official Documentation](https://fishshell.com/docs/current/index.html)
+
+## Community
 
 - [r/fishshell](https://www.reddit.com/r/fishshell/)
 - [Gitter Channel](https://gitter.im/fish-shell/fish-shell)
 - [StackOverflow](http://stackoverflow.com/questions/tagged/fish)
-- [The Fish Cookbook](https://github.com/jorgebucaran/fish-cookbook)
 
 ## License
 
