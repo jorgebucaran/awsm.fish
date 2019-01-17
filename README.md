@@ -1,23 +1,15 @@
 # Awesome Fish
 
-<!-- [![Slack Widget](https://img.shields.io/badge/join-us%20on%20slack-gray.svg?longCache=true&logo=slack&colorB=red)](https://fishshell.slack.com/messages) -->
-
 A curated list of awesome packages, prompts and other nuggets for the [fish shell](https://github.com/fish-shell/fish-shell).
 
-Want to contribute? Fork this repository, add your amazing project and send us a PR. If you see a package or project here that is no longer maintained or is not a good fit, help us improve this file. Thank you!
-
-## Community
-
-- [r/fishshell](https://www.reddit.com/r/fishshell/)
-- [Gitter Channel](https://gitter.im/fish-shell/fish-shell)
-- [StackOverflow](http://stackoverflow.com/questions/tagged/fish)
+Want to contribute? Fork this repository, add your project and send us a PR. If you see a project here that is not maintained or is not a good fit, help us improve this file. Still looking for more? [Explore](https://github.com/topics/fish-shell) [these](https://github.com/topics/fish-packages) [GitHub](https://github.com/topics/fisher) [topics](https://github.com/topics/fish-prompt).
 
 ## Package Managers
 
 A package manager makes it easy to extend your shell capabilities, change the look of your prompt and create repeatable configurations across different systems.
 
-- [Fisher](https://github.com/jorgebucaran/fisher) - npm/Yarn-inspired design
-- [Fundle](https://github.com/danhper/fundle) - For vundle.vim lovers
+- [Fisher](https://github.com/jorgebucaran/fisher) - npm/Yarn-inspired design, clean and minimal design
+- [Fundle](https://github.com/danhper/fundle) - For vundle.vim fans, configuration-first design
 - [Oh My Fish](https://github.com/oh-my-fish/oh-my-fish) - Oh My Zsh meets fish
 
 [Need help choosing?](https://github.com/jorgebucaran/fisher/issues/481)
@@ -30,8 +22,9 @@ A package manager makes it easy to extend your shell capabilities, change the lo
 
 ###### Utilities
 
-- [jorgebucaran/**fishopts**](https://github.com/jorgebucaran/fishopts) - CLI options parser alternative to argparse
-- [jorgebucaran/**shark**](https://github.com/jorgebucaran/shark) - Pure-fish sparkline generator ([holman/spark](https://github.com/holman/spark) port)
+- [fishpkg/**fish-humanize-duration**](https://github.com/fishpkg/fish-humanize-duration) - Make a time interval human readable
+- [fishpkg/**fish-get-file-age**](https://github.com/fishpkg/fish-get-file-age) - Get the number of seconds since a file was last modified
+- [jorgebucaran/**fish-getopts**](https://github.com/jorgebucaran/fish-getopts) - CLI options parser alternative to the [`argparse`](https://fishshell.com/docs/current/commands.html#argparse) builtin
 
 ###### Directory Management
 
@@ -41,7 +34,7 @@ A package manager makes it easy to extend your shell capabilities, change the lo
 
 - [brigand/**fast-nvm-fish**](https://github.com/brigand/fast-nvm-fish) - Enhanced [nvm](https://github.com/creationix/nvm) wrapper optimized for speed
 - [FabioAntunes/**fish-nvm**](https://github.com/FabioAntunes/fish-nvm) - Completion-rich, true [nvm](https://github.com/creationix/nvm) wrapper
-- [jorgebucaran/**fish-n**](https://github.com/jorgebucaran/fnm) - Pure-fish, no bullshit Node.js version manager
+- [jorgebucaran/**fish-nvm**](https://github.com/jorgebucaran/fish-nvm) - Pure-fish, no nonsense Node.js version manager
 
 ###### Testing
 
@@ -54,35 +47,31 @@ A package manager makes it easy to extend your shell capabilities, change the lo
 
 ###### Other
 
-- [smh/**base16-shell-fish**](https://github.com/smh/base16-shell-fish) - Switch your [base16-shell](https://github.com/chriskempson/base16-shell) theme interactively
 - [danhper/**fish-ssh-agent**](https://github.com/danhper/fish-ssh-agent) - Utility functions to start your ssh agent
+- [jorgebucaran/**fish-spark**](https://github.com/jorgebucaran/fish-spark) - Pure-fish sparkline generator ([holman/spark](https://github.com/holman/spark) port)
+- [smh/**base16-shell-fish**](https://github.com/smh/base16-shell-fish) - Switch your [base16-shell](https://github.com/chriskempson/base16-shell) theme interactively
 - [oh-my-fish/**packages-main**](https://github.com/oh-my-fish/packages-main/tree/master/packages) - Oh My Fish official package repository
-
-###### GitHub Topics
-
-- [<samp>#fisher</samp>](https://github.com/topics/fisher)
-- [<samp>#oh-my-fish</samp>](https://github.com/topics/oh-my-fish)
-- [<samp>#fish-plugin</samp>](https://github.com/topics/fish-plugin)
-- [<samp>#fish-package</samp>](https://github.com/topics/fish-package)
 
 ## Prompts
 
 ###### Classic
 
-- [jorgebucaran/**fish-sol**](https://github.com/jorgebucaran/fish-fresh) - True minimal prompt
 - [matchai/**spacefish**](https://github.com/matchai/spacefish) - Space-themed prompt for astronauts
 - [rafaelrinaldi/**pure**](https://github.com/rafaelrinaldi/pure) - Pure-fish port of [sindresorhus/pure](https://github.com/sindresorhus/pure) prompt
+  <!-- - [jorgebucaran/fish-prompt](https://github.com/jorgebucaran/fish-new-prompt) - WIP -->
 
 ###### Powerline
 
+- [fishpkg/**fish-prompt-metro**](https://github.com/fishpkg/fish-prompt-metro) - Fast, git-aware, space-conscious, Powerline prompt
 - [hauleth/**agnoster**](https://github.com/hauleth/agnoster) - Solarized, git-aware, powerline prompt
-- [jorgebucaran/**fish-metro**](https://github.com/jorgebucaran/fish-metro) - Fast, space-conscious, powerline prompt
 - [oh-my-fish/**theme-bobthefish**](https://github.com/oh-my-fish/theme-bobthefish) - Robust, git-aware, powerline prompt
 
----
+## Links
+
+- [r/fishshell](https://www.reddit.com/r/fishshell/)
+- [Gitter Channel](https://gitter.im/fish-shell/fish-shell)
+- [StackOverflow](http://stackoverflow.com/questions/tagged/fish)
 
 ## License
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
-
-Please provide a link back to this repository. This is not necessary for GitHub forks.
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0).
