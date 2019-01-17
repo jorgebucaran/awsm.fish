@@ -4,6 +4,12 @@ A curated list of awesome packages, prompts and other nuggets for the [fish shel
 
 Want to contribute? Fork this repository, add your project and send us a PR. If you see a project here that is not maintained or is not a good fit, help us improve this file. Still looking for more? [Explore](https://github.com/topics/fish-shell) [these](https://github.com/topics/fish-packages) [GitHub](https://github.com/topics/fisher) [topics](https://github.com/topics/fish-prompt).
 
+## Community
+
+- [r/fishshell](https://www.reddit.com/r/fishshell/)
+- [Gitter Channel](https://gitter.im/fish-shell/fish-shell)
+- [StackOverflow](http://stackoverflow.com/questions/tagged/fish)
+
 ## Package Managers
 
 A package manager makes it easy to extend your shell capabilities, change the look of your prompt and create repeatable configurations across different systems.
@@ -66,18 +72,12 @@ A package manager makes it easy to extend your shell capabilities, change the lo
 - [hauleth/**agnoster**](https://github.com/hauleth/agnoster) - Solarized, git-aware, powerline prompt
 - [oh-my-fish/**theme-bobthefish**](https://github.com/oh-my-fish/theme-bobthefish) - Robust, git-aware, powerline prompt
 
-## Learning
+## Resources
 
 - [Homepage](https://fishshell.com)
 - [Try in Browser!](https://rootnroll.com/d/fish-shell)
 - [The Fish Cookbook](https://github.com/jorgebucaran/fish-cookbook)
 - [Official Documentation](https://fishshell.com/docs/current/index.html)
-
-## Community
-
-- [r/fishshell](https://www.reddit.com/r/fishshell/)
-- [Gitter Channel](https://gitter.im/fish-shell/fish-shell)
-- [StackOverflow](http://stackoverflow.com/questions/tagged/fish)
 
 ## License
 
