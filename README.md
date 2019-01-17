@@ -71,6 +71,7 @@ A package manager makes it easy to extend your shell capabilities, change the lo
 - [r/fishshell](https://www.reddit.com/r/fishshell/)
 - [Gitter Channel](https://gitter.im/fish-shell/fish-shell)
 - [StackOverflow](http://stackoverflow.com/questions/tagged/fish)
+- [The Fish Cookbook](https://github.com/jorgebucaran/fish-cookbook)
 
 ## License
 
