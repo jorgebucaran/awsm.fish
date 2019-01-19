@@ -37,6 +37,7 @@ Want to contribute? Fork this repository, add your project and send us a PR. If 
 
 ## Utilities
 
+- [franciscolourenco/**done**](https://github.com/franciscolourenco/done) - Automatically receive notifications when a long process finish
 - [jethrokuan/**z**](https://github.com/jethrokuan/z) - Pure-fish [rupa/z](https://github.com/rupa/z)-like directory jumping
 - [jorgebucaran/**fish-getopts**](https://github.com/jorgebucaran/fish-getopts) - CLI options parser alternative to the [`argparse`](https://fishshell.com/docs/current/commands.html#argparse) builtin
 - [jorgebucaran/**fish-spark**](https://github.com/jorgebucaran/fish-spark) - Pure-fish sparkline generator
@@ -50,6 +51,7 @@ Want to contribute? Fork this repository, add your project and send us a PR. If 
 
 ### Key Bindings
 
+- [jethrokuan/**fzf**](https://github.com/jethrokuan/fzf) - Improved key bindings for [junegunn/fzf](https://github.com/junegunn/fzf)
 - [laughedelic/**pisces**](https://github.com/laughedelic/pisces) - Autoclose parentheses, braces, quotes and other paired symbols
 - [oh-my-fish/**plugin-bang-bang**](https://github.com/oh-my-fish/plugin-bang-bang) - bash style history substitution
 
