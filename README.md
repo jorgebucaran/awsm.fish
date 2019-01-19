@@ -21,8 +21,8 @@ Want to contribute? Fork this repository, add your project and send us a PR. If 
 
 ## Package Management
 
-- [Fisher](https://github.com/jorgebucaran/fisher) - Zero configuration, minimal CLI design
-- [Fundle](https://github.com/danhper/fundle) - Configuration-based approach, for Vundle.vim fans
+- [Fisher](https://github.com/jorgebucaran/fisher) - Zero configuration universal package manager
+- [Fundle](https://github.com/danhper/fundle) - Configuration-based package loader—for Vundle.vim fans
 - [Oh My Fish](https://github.com/oh-my-fish/oh-my-fish) - Oh My Zsh meets fish~!
 
 > ✋ [Need help choosing?](https://github.com/jorgebucaran/fisher/issues/481)
