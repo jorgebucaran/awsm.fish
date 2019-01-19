@@ -1,6 +1,6 @@
-# Awesome fish—the friendly interactive shell
+# Awesome Fish
 
-A curated list of packages, prompts, and resources for the amazing <a href="https://github.com/fish-shell/fish-shell" title="the friendly interactive shell">fish shell</a>. This work is donated to the public domain under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
+A curated list of packages, prompts, and resources for the amazing <a href="https://fishshell.com" title="friendly interactive shell">fish shell</a>. This work is donated to the public domain under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
 Want to contribute? Fork this repository, add your project and send us a PR. If you see a project here that is not maintained or is not a good fit, [help us improve this file](https://github.com/jorgebucaran/awesome-fish/fork).
 
