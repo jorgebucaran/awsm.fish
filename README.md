@@ -1,5 +1,3 @@
-###### Inspired by [Awesome](https://github.com/sindresorhus/awesome)
-
 # Awesome fish—the friendly interactive shell
 
 A curated list of packages, prompts, and resources for the amazing <a href="https://github.com/fish-shell/fish-shell" title="the friendly interactive shell">fish shell</a>. This work is donated to the public domain under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
