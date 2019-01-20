@@ -41,6 +41,7 @@ Want to contribute? Fork this repository, add your project and send us a PR. If 
 - [jorgebucaran/**fish-spark**](https://github.com/jorgebucaran/fish-spark) - Pure-fish sparkline generator
 - [jorgebucaran/**fish-tape**](https://github.com/jorgebucaran/fish-tape) - TAP producing test runner
 - [rodrigobdz/**fish-apple-touchbar**](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your Touch Bar in iTerm2
+- [matchai/**fish-mock**](https://github.com/matchai/fish-mock) - Quick and powerful mocks
 
 ### Environment
 
