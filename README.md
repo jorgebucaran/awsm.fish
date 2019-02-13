@@ -12,6 +12,7 @@ Want to contribute? Fork this repository, add your project and send us a PR. If 
   - [Environment](#environment)
   - [Key Bindings](#key-bindings)
   - [Node.js](#nodejs)
+  - [Testing](#testing)
 - [Resources](#resources)
   - [Articles](#articles)
   - [Community](#community)
@@ -32,11 +33,6 @@ Want to contribute? Fork this repository, add your project and send us a PR. If 
 - [matchai/**spacefish**](https://github.com/matchai/spacefish) - Space-themed prompt for astronauts
 - [oh-my-fish/**theme-bobthefish**](https://github.com/oh-my-fish/theme-bobthefish) - Robust, git-aware, powerline prompt
 - [rafaelrinaldi/**pure**](https://github.com/rafaelrinaldi/pure) - Pure-fish port of [sindresorhus/pure](https://github.com/sindresorhus/pure) prompt
-
-## Testing
-
-- [jorgebucaran/**fishtape**](https://github.com/jorgebucaran/fishtape) - TAP-based test runner 
-- [matchai/**fish-mock**](https://github.com/matchai/fish-mock) - Quick and powerful mocks
 
 ## Utilities
 
@@ -62,6 +58,11 @@ Want to contribute? Fork this repository, add your project and send us a PR. If 
 - [brigand/**fast-nvm-fish**](https://github.com/brigand/fast-nvm-fish) - Enhanced [nvm](https://github.com/creationix/nvm) wrapper optimized for speed
 - [FabioAntunes/**fish-nvm**](https://github.com/FabioAntunes/fish-nvm) - Completion-rich, true [nvm](https://github.com/creationix/nvm) wrapper
 - [jorgebucaran/**fish-nvm**](https://github.com/jorgebucaran/fish-nvm) - Pure-fish, no nonsense Node.js version manager
+
+### Testing
+
+- [jorgebucaran/**fishtape**](https://github.com/jorgebucaran/fishtape) - TAP-based test runner 
+- [matchai/**fish-mock**](https://github.com/matchai/fish-mock) - Quick and powerful mocks
 
 ## Resources
 
