@@ -33,15 +33,18 @@ Want to contribute? Fork this repository, add your project and send us a PR. If 
 - [oh-my-fish/**theme-bobthefish**](https://github.com/oh-my-fish/theme-bobthefish) - Robust, git-aware, powerline prompt
 - [rafaelrinaldi/**pure**](https://github.com/rafaelrinaldi/pure) - Pure-fish port of [sindresorhus/pure](https://github.com/sindresorhus/pure) prompt
 
+## Testing
+
+- [jorgebucaran/**fishtape**](https://github.com/jorgebucaran/fishtape) - TAP-based test runner 
+- [matchai/**fish-mock**](https://github.com/matchai/fish-mock) - Quick and powerful mocks
+
 ## Utilities
 
 - [franciscolourenco/**done**](https://github.com/franciscolourenco/done) - Automatically receive notifications when a long process finish
 - [jethrokuan/**z**](https://github.com/jethrokuan/z) - Pure-fish [rupa/z](https://github.com/rupa/z)-like directory jumping
 - [jorgebucaran/**fish-getopts**](https://github.com/jorgebucaran/fish-getopts) - CLI options parser alternative to the [`argparse`](https://fishshell.com/docs/current/commands.html#argparse) builtin
 - [jorgebucaran/**fish-spark**](https://github.com/jorgebucaran/fish-spark) - Pure-fish sparkline generator
-- [jorgebucaran/**fish-tape**](https://github.com/jorgebucaran/fish-tape) - TAP producing test runner
 - [rodrigobdz/**fish-apple-touchbar**](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your Touch Bar in iTerm2
-- [matchai/**fish-mock**](https://github.com/matchai/fish-mock) - Quick and powerful mocks
 
 ### Environment
 
