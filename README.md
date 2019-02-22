@@ -46,6 +46,7 @@ Want to contribute? Fork this repository, add your project and send us a PR. If 
 
 - [danhper/**fish-ssh-agent**](https://github.com/danhper/fish-ssh-agent) - Utility functions to start your ssh agent
 - [edc/**bass**](https://github.com/edc/bass) - Make bash utilities usable in fish
+- [jorgebucaran/**fish-bax**](https://github.com/jorgebucaran/fish-bax) - Run bash utilities, replaying environment changes in fish without leaving the comfort of your session
 
 ### Key Bindings
 
