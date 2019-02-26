@@ -12,6 +12,7 @@ Want to contribute? Fork this repository, add your project and send us a PR. If 
   - [Environment](#environment)
   - [Key Bindings](#key-bindings)
   - [Node.js](#nodejs)
+  - [Python](#python)
   - [Testing](#testing)
 - [Resources](#resources)
   - [Articles](#articles)
@@ -59,6 +60,10 @@ Want to contribute? Fork this repository, add your project and send us a PR. If 
 - [brigand/**fast-nvm-fish**](https://github.com/brigand/fast-nvm-fish) - Enhanced [nvm](https://github.com/creationix/nvm) wrapper optimized for speed
 - [FabioAntunes/**fish-nvm**](https://github.com/FabioAntunes/fish-nvm) - Completion-rich, true [nvm](https://github.com/creationix/nvm) wrapper
 - [jorgebucaran/**fish-nvm**](https://github.com/jorgebucaran/fish-nvm) - Pure-fish, no nonsense Node.js version manager
+
+### Python
+
+- [adambrenecki/**virtualfish**](https://github.com/adambrenecki/virtualfish) - A Fish Shell wrapper for Ian Bicking's virtualenv
 
 ### Testing
 
