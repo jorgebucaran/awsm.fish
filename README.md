@@ -13,6 +13,7 @@ Want to contribute? Fork this repository, add your project and send us a PR. If 
   - [Key Bindings](#key-bindings)
   - [Node.js](#nodejs)
   - [Python](#python)
+  - [Git](#git)
   - [Testing](#testing)
 - [Resources](#resources)
   - [Articles](#articles)
@@ -64,6 +65,10 @@ Want to contribute? Fork this repository, add your project and send us a PR. If 
 ### Python
 
 - [adambrenecki/**virtualfish**](https://github.com/adambrenecki/virtualfish) - A Fish Shell wrapper for Ian Bicking's virtualenv
+
+### Git
+
+- [joseluisq/**gitnow**](https://github.com/joseluisq/gitnow) - Command's set to speed up your Git workflow
 
 ### Testing
 
