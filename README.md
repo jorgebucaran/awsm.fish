@@ -55,7 +55,7 @@ Want to add your project here? Is anything wrong, unclear, or missing? Help us [
 - [Gitter Channel](https://gitter.im/fish-shell/fish-shell)
 - [StackOverflow `#fish`](https://stackoverflow.com/questions/tagged/fish)
 
-<sup>[Back to top](#awesome-fish-shell) or [keep](https://github.com/topics/fish-shell) [exploring](https://github.com/topics/fish-packages) [on](https://github.com/topics/fish) [GitHub](https://github.com/topics/fish-prompt)</sup>
+<sup>[Back to top](#awesome-fish) or [keep](https://github.com/topics/fish-shell) [exploring](https://github.com/topics/fish-packages) [on](https://github.com/topics/fish) [GitHub](https://github.com/topics/fish-prompt)</sup>
 
 <h2></h2>
 
