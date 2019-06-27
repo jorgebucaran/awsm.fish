@@ -1,4 +1,4 @@
-# Awesome `fish` [![chat on gitter](https://img.shields.io/gitter/room/fish-shell/fish-shell.svg?color=%231cc)](https://gitter.im/fish-shell/fish-shell)
+# Awesome `fish` [![Version](https://img.shields.io/github/tag/fish-shell/fish-shell.svg?label=&color=0080FF)](https://github.com/fish-shell/fish-shell/releases/latest) [![Chat](https://img.shields.io/badge/-chat%20on%20gitter-ff0066.svg)](https://gitter.im/fish-shell/fish-shell)
 
 A curated list of the most fabulous packages, prompts, and resources for the <a href="https://github.com/fish-shell/fish-shell" title="fish">friendly interactive shell</a>.
 
