@@ -41,6 +41,7 @@ Looking to get started with fish? [Try it in your browser](https://rootnroll.com
 - [apple-touchbar](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your [Touch Bar](https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview) in iTerm2.
 - [jorgebucaran/nvm](https://github.com/jorgebucaran/fish-nvm) - Pure-fish Node.js version manager.
 - [fabioantunes/nvm](https://github.com/FabioAntunes/fish-nvm) - nvm wrapper with completions (see also [brigand/fast-nvm](https://github.com/brigand/fast-nvm-fish)).
+- [jbonjean/re-search](https://github.com/jbonjean/re-search) - More readline (or bash) like incremental history search.
 
 ### Articles, tutorials, guides
 
