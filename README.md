@@ -1,4 +1,4 @@
-# Awesome `fish` [![Version](https://img.shields.io/github/tag/fish-shell/fish-shell.svg?label=&color=0080FF)](https://github.com/fish-shell/fish-shell/releases/latest) [![Chat](https://img.shields.io/badge/-chat%20on%20gitter-ff0066.svg)](https://gitter.im/fish-shell/fish-shell)
+# Awesome `fish` [![Version](https://img.shields.io/github/tag/fish-shell/fish-shell.svg?label=&color=0080FF)](https://github.com/fish-shell/fish-shell/releases/latest)
 
 A curated list of the most fabulous packages, prompts, and resources for the <a href="https://github.com/fish-shell/fish-shell" title="fish">friendly interactive shell</a>.
 
@@ -29,7 +29,7 @@ Looking to get started with fish? [Try it in your browser](https://rootnroll.com
 - [bax](https://github.com/jorgebucaran/fish-bax) - Run bash scripts, replaying environment changes in fish (see also [bass](https://github.com/edc/bass)).
 - [done](https://github.com/franciscolourenco/done) - Automatically receive notifications when a long process finishes.
 - [mock](https://github.com/matchai/fish-mock) - Quick and powerful function mocks.
-- [spark](https://github.com/jorgebucaran/fish-spark) - Pure-fish sparkline ▁▂▃▅▂▇ generator.
+- [spark](https://github.com/jorgebucaran/fish-spark) - Pure-fish sparkline generator: ▁▂▃▅▂▇ in your shell.
 - [gitnow](https://github.com/joseluisq/gitnow) - A collection of utility functions set to speed up your git workflow.
 - [pisces](https://github.com/laughedelic/pisces) - Autoclose parentheses, braces, quotes and other paired symbols in the command-line.
 - [getopts](https://github.com/jorgebucaran/fish-getopts) - CLI options parser; alternative to the [argparse](https://fishshell.com/docs/current/commands.html#argparse) fish builtin.
