@@ -24,7 +24,7 @@ Looking to get started with fish? [Try it in your browser](https://rootnroll.com
 
 ### Commands, utilities, functions
 
-- [enhancd-fish](https://github.com/b4b4r07/enhancd) - Port of the awesome [enhancd](https://github.com/b4b4r07/enhancd) zsh plugin for fish shell
+- [enhancd](https://github.com/b4b4r07/enhancd) - A next-generation cd command with your interactive filter
 - [z](https://github.com/jethrokuan/z) - Pure-fish [rupa/z](https://github.com/rupa/z)-like directory jumping.
 - [fzf](https://github.com/jethrokuan/fzf) - Improved key bindings for [junegunn/fzf](https://github.com/junegunn/fzf).
 - [bax](https://github.com/jorgebucaran/fish-bax) - Run bash scripts, replaying environment changes in fish (see also [bass](https://github.com/edc/bass)).
