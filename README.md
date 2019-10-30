@@ -19,7 +19,6 @@ Looking to get started with fish? [Try it in your browser](https://rootnroll.com
 - [Pure](https://github.com/rafaelrinaldi/pure) - Port of [sindresorhus/pure](https://github.com/sindresorhus/pure) prompt.
 - [Mono](https://github.com/fishpkg/fish-prompt-mono) - No bells or whistles, minimal shell prompt.
 - [Metro](https://github.com/fishpkg/fish-prompt-metro) - Git-aware, space-conscious, powerline prompt.
-- [Spacefish](https://github.com/matchai/spacefish) - Space-themed prompt for astronauts.
 - [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) - Robust, git-aware, powerline prompt.
 
 ### Commands, utilities, functions
