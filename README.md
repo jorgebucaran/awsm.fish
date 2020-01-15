@@ -39,6 +39,7 @@ Looking to get started with fish? [Try it in your browser](https://rootnroll.com
 - [bang-bang](https://github.com/oh-my-fish/plugin-bang-bang) - Bash-like history substitution.
 - [virtualfish](https://github.com/adambrenecki/virtualfish) - Virtualenv wrapper.
 - [apple-touchbar](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your [Touch Bar](https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview) in iTerm2.
+- [acomagu/fish-async-prompt](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous to increase it reactivity. 
 - [jorgebucaran/nvm](https://github.com/jorgebucaran/fish-nvm) - Pure-fish Node.js version manager.
 - [fabioantunes/nvm](https://github.com/FabioAntunes/fish-nvm) - nvm wrapper with completions (see also [brigand/fast-nvm](https://github.com/brigand/fast-nvm-fish)).
 - [jbonjean/re-search](https://github.com/jbonjean/re-search) - More readline (or bash) like incremental history search.
