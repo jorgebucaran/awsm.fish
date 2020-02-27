@@ -51,6 +51,7 @@ Looking to get started with fish? [Try it in your browser](https://rootnroll.com
 - [Why you should give fish a chance](https://dev.to/jukben/why-you-should-give-a-chance-to-fish-shell-5a0l) (by [@jukben](https://github.com/jukben))
 - [A user introduction to the fish shell](https://flaviocopes.com/fish-shell/) (by [@flaviocopes](https://github.com/flaviocopes))
 - [Came for the colors, stayed for the sane scripting!](https://mvolkmann.github.io/fish-article/) (by [@mvolkmann](https://github.com/mvolkmann))
+- [Why I Switched from ZSH to FISH](https://dev.to/joshmedeski/why-i-switched-from-zsh-to-fish-2j17) (by [@joshmedeski](https://github.com/joshmedeski)) 
 
 ## Stay in the loop
 
