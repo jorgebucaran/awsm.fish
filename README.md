@@ -1,4 +1,4 @@
-# Awesome `fish` [![Version](https://img.shields.io/github/tag/fish-shell/fish-shell.svg?label=&color=0080FF)](https://github.com/fish-shell/fish-shell/releases/latest)
+# Awesome `fish` [![Version](https://img.shields.io/github/tag/fish-shell/fish-shell.svg?label=&color=0366d6)](https://github.com/fish-shell/fish-shell/releases/latest)
 
 A curated list of the most fabulous packages, prompts, and resources for the <a href="https://github.com/fish-shell/fish-shell" title="fish">friendly interactive shell</a>.
 
