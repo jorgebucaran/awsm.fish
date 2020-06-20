@@ -24,6 +24,7 @@ Looking to get started with fish? [Try it in your browser](https://rootnroll.com
 
 ### Commands, utilities, functions
 
+- [fish-abbreviation-tips](https://github.com/Gazorby/fish-abbreviation-tips) - Help you remembering abbreviations by displaying tips when you can use them
 - [enhancd](https://github.com/b4b4r07/enhancd) - A next-generation cd command with your interactive filter
 - [z](https://github.com/jethrokuan/z) - Pure-fish [rupa/z](https://github.com/rupa/z)-like directory jumping.
 - [fzf](https://github.com/jethrokuan/fzf) - Improved key bindings for [junegunn/fzf](https://github.com/junegunn/fzf).
@@ -40,7 +41,7 @@ Looking to get started with fish? [Try it in your browser](https://rootnroll.com
 - [bang-bang](https://github.com/oh-my-fish/plugin-bang-bang) - Bash-like history substitution.
 - [virtualfish](https://github.com/adambrenecki/virtualfish) - Virtualenv wrapper.
 - [apple-touchbar](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your [Touch Bar](https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview) in iTerm2.
-- [acomagu/fish-async-prompt](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous to increase it reactivity. 
+- [acomagu/fish-async-prompt](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous to increase it reactivity.
 - [jorgebucaran/nvm](https://github.com/jorgebucaran/fish-nvm) - Pure-fish Node.js version manager.
 - [fabioantunes/nvm](https://github.com/FabioAntunes/fish-nvm) - nvm wrapper with completions (see also [brigand/fast-nvm](https://github.com/brigand/fast-nvm-fish)).
 - [jbonjean/re-search](https://github.com/jbonjean/re-search) - More readline (or bash) like incremental history search.
@@ -52,7 +53,7 @@ Looking to get started with fish? [Try it in your browser](https://rootnroll.com
 - [Why you should give fish a chance](https://dev.to/jukben/why-you-should-give-a-chance-to-fish-shell-5a0l) (by [@jukben](https://github.com/jukben))
 - [A user introduction to the fish shell](https://flaviocopes.com/fish-shell/) (by [@flaviocopes](https://github.com/flaviocopes))
 - [Came for the colors, stayed for the sane scripting!](https://mvolkmann.github.io/fish-article/) (by [@mvolkmann](https://github.com/mvolkmann))
-- [Why I Switched from ZSH to FISH](https://dev.to/joshmedeski/why-i-switched-from-zsh-to-fish-2j17) (by [@joshmedeski](https://github.com/joshmedeski)) 
+- [Why I Switched from ZSH to FISH](https://dev.to/joshmedeski/why-i-switched-from-zsh-to-fish-2j17) (by [@joshmedeski](https://github.com/joshmedeski))
 
 ### Docker
 
