@@ -1,7 +1,3 @@
-<img align="right" height=200
-     src="https://user-images.githubusercontent.com/56996/88256736-00c32980-ccf7-11ea-9cd7-adb09c183253.png"
-     title="fish-shell logo">
-  
 # Awesome `fish`
    
 A curation of packages, prompts, and resources for the [friendly interactive shell](https://github.com/fish-shell/fish-shell).
