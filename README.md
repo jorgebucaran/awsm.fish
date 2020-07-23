@@ -1,6 +1,6 @@
 # Awesome `fish`
    
-A curation of packages, prompts, and resources for the [friendly interactive shell](https://github.com/fish-shell/fish-shell).
+> A curation of packages, prompts, and resources for the [friendly interactive shell](https://github.com/fish-shell/fish-shell).
 
 Want to add your project here? [Send us a pull request](https://github.com/jorgebucaran/awesome-fish/fork). Thank you!
 
