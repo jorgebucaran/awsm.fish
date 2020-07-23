@@ -1,10 +1,10 @@
-<img align="right" height=270
+<img align="right" height=200
      src="https://user-images.githubusercontent.com/56996/88256736-00c32980-ccf7-11ea-9cd7-adb09c183253.png"
      title="fish-shell logo">
-
+  
 # Awesome `fish`
-
-A curated list of packages, prompts, and resources for the [friendly interactive shell](https://github.com/fish-shell/fish-shell).
+   
+A curation of packages, prompts, and resources for the [friendly interactive shell](https://github.com/fish-shell/fish-shell).
 
 Want to add your project here? [Send us a pull request](https://github.com/jorgebucaran/awesome-fish/fork). Thank you!
 
@@ -67,6 +67,6 @@ Want to add your project here? [Send us a pull request](https://github.com/jorge
 
 <sup>[Back to top](#awesome-fish-) or [keep](https://github.com/topics/fish-shell) [exploring](https://github.com/topics/fish-packages) [on](https://github.com/topics/fish) [GitHub](https://github.com/topics/fish-prompt)</sup>
 
-<br>
+<h2></h2>
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
