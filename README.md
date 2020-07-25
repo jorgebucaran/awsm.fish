@@ -1,4 +1,5 @@
-# Awesome Fish [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Fish [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 
 > The friendly interactive shell (fish) is a smart and user-friendly command line shell for Linux, macOS, and the rest of the family. Unlike previous shells, which disable certain features by default to save system resources, fish enables all features by default—finally, a command line shell for the 90s!
 
@@ -27,7 +28,8 @@ A curation of packages, prompts, and resources for the [friendly interactive she
 
 ## Prompts
 
-- [Pure](https://github.com/rafaelrinaldi/pure) - Port of [sindresorhus/pure](https://github.com/sindresorhus/pure) prompt.
+- [Tide](https://github.com/IlanCosman/tide) - A modern prompt manager for the fish shell.
+- [Pure](https://github.com/rafaelrinaldi/pure) - Port of the [original pure](https://github.com/sindresorhus/pure) prompt.
 - [Mono](https://github.com/fishpkg/mono) - No bells or whistles, minimal shell prompt.
 - [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) - Robust, git-aware, powerline prompt.
 - [Async Prompt](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous!
@@ -50,4 +52,5 @@ A curation of packages, prompts, and resources for the [friendly interactive she
 ## Docker
 
 - [Ubuntu LTS container](https://hub.docker.com/r/dideler/fish-shell)
+
 
