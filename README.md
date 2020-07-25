@@ -15,43 +15,39 @@ A curation of packages, prompts, and resources for the [friendly interactive she
 - [r/fishshell](https://www.reddit.com/r/fishshell)
 - [StackOverflow `#fish`](https://stackoverflow.com/questions/tagged/fish)
 - [Gitter Channel](https://gitter.im/fish-shell/fish-shell)
+- [The Fish Cookbook](https://github.com/jorgebucaran/fish-cookbook)
+
 
 ## Package Managers
 
 - [Fisher](https://github.com/jorgebucaran/fisher) - Minimal, fast and reliable package manager.
 - [Fundle](https://github.com/danhper/fundle) - <samp>config.fish</samp>-based package manager inspired by Vundle.
+- [Tacklebox](https://github.com/justinmayer/tacklebox) - Configuration framework for organizing and sharing utilities.
 - [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) - OMZ-inspired shell configuration framework.
 
 ## Prompts
 
 - [Pure](https://github.com/rafaelrinaldi/pure) - Port of [sindresorhus/pure](https://github.com/sindresorhus/pure) prompt.
 - [Mono](https://github.com/fishpkg/mono) - No bells or whistles, minimal shell prompt.
-- [Metro](https://github.com/fishpkg/metro) - Git-aware, space-conscious, powerline prompt.
-- [Sashimi](https://github.com/isacikgoz/sashimi) - A minimalist fish prompt made with raw fish.
 - [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) - Robust, git-aware, powerline prompt.
 - [Async Prompt](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous!
 
 ## Utilities
 
-- [z](https://github.com/jethrokuan/z) - Pure-fish [rupa/z](https://github.com/rupa/z)-like directory jumping. See also: [fzf-fish-integration](https://github.com/patrickf3139/fzf-fish-integration).
-- [Mock](https://github.com/matchai/fish-mock) - Quick and powerful function mocks.
-- [Nvm](https://github.com/jorgebucaran/fish-nvm) - Pure-fish Node.js version manager. See also: [FabioAntunes/fish-nvm](https://github.com/FabioAntunes/fish-nvm), [brigand/fast-nvm](https://github.com/brigand/fast-nvm-fish).
+- [Z](https://github.com/jethrokuan/z) - Pure-fish [rupa/z](https://github.com/rupa/z)-like directory jumping. See also: [fzf-fish-integration](https://github.com/patrickf3139/fzf-fish-integration).
 - [Bax](https://github.com/jorgebucaran/fish-bax) - Run bash scripts, replaying environment changes in fish. See also: [edc/bass](https://github.com/edc/bass).
+- [Nvm](https://github.com/jorgebucaran/fish-nvm) - Pure-fish Node.js version manager. See also: [fish-nvm](https://github.com/FabioAntunes/fish-nvm), [fast-nvm](https://github.com/brigand/fast-nvm-fish).
 - [Done](https://github.com/franciscolourenco/done) - Automatically receive notifications when a long process finishes.
 - [Spark](https://github.com/jorgebucaran/fish-spark) - Pure-fish sparkline generator: ▁▂▃▅▂▇ in your shell.
 - [Pisces](https://github.com/laughedelic/pisces) - Autoclose parentheses, braces, quotes and other paired symbols in the command-line.
-- [Gitnow](https://github.com/joseluisq/gitnow) - A collection of utility functions set to speed up your git workflow.
-- [Git Util](https://github.com/fishpkg/git-util) - Git utility functions to query the status of a repository.
+- [GitNow](https://github.com/joseluisq/gitnow) - A collection of utility functions set to speed up your git workflow.
 - [Getopts](https://github.com/jorgebucaran/fish-getopts) - CLI options parser; alternative to the [`argparse`](https://fishshell.com/docs/current/commands.html#argparse) fish builtin.
 - [Fishtape](https://github.com/jorgebucaran/fishtape) - TAP-based test runner for fish scripts.
 - [Virtualfish](https://github.com/adambrenecki/virtualfish) - Virtualenv wrapper.
+- [Apple Touchbar](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your [Touch Bar](https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview) in iTerm2.
 - [Abbreviation Tips](https://github.com/Gazorby/fish-abbreviation-tips) - Help you remembering abbreviations by displaying tips when you can use them.
 
-## Other
-- [Apple Touchbar](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your [Touch Bar](https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview) in iTerm2.
-- [The Fish Cookbook](https://github.com/jorgebucaran/fish-cookbook)
+## Docker
+
 - [Ubuntu LTS container](https://hub.docker.com/r/dideler/fish-shell)
 
-<h2></h2>
-
-👋 Looking for more? [Explore](https://github.com/topics/fish-shell) [these](https://github.com/topics/fish-packages) [topics](https://github.com/topics/fisher) [on](https://github.com/topics/oh-my-fish) [GitHub](https://github.com/topics/fish-prompt)
