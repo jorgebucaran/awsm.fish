@@ -13,8 +13,8 @@ A curation of packages, prompts, and resources for the [friendly interactive she
 ## Community Resources
 
 - [r/fishshell](https://www.reddit.com/r/fishshell)
-- [StackOverflow `#fish`](https://stackoverflow.com/questions/tagged/fish)
 - [Gitter Channel](https://gitter.im/fish-shell/fish-shell)
+- [StackOverflow `#fish`](https://stackoverflow.com/questions/tagged/fish)
 - [The Fish Cookbook](https://github.com/jorgebucaran/fish-cookbook)
 
 
