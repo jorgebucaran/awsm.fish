@@ -33,6 +33,7 @@ A curation of packages, prompts, and resources for the [friendly interactive she
 - [Mono](https://github.com/fishpkg/mono) - No bells or whistles, minimal shell prompt.
 - [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) - Robust, git-aware, powerline prompt.
 - [Async Prompt](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous!
+- [Starship](https://starship.rs/) - Cross-shell prompt written in Rust with fish support.
 
 ## Utilities
 
