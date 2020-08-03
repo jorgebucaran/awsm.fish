@@ -48,6 +48,7 @@ A curation of packages, prompts, and resources for the [friendly interactive she
 - [Virtualfish](https://github.com/adambrenecki/virtualfish) - Virtualenv wrapper.
 - [Apple Touchbar](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your [Touch Bar](https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview) in iTerm2.
 - [Abbreviation Tips](https://github.com/Gazorby/fish-abbreviation-tips) - Help you remembering abbreviations by displaying tips when you can use them.
+- [Jump](https://github.com/mattgreen/jump.fish) - Easily switch between project directories
 
 ## Docker
 
