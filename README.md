@@ -1,5 +1,4 @@
-# Fish [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
+# Awesome.fish [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > The friendly interactive shell (fish) is a smart and user-friendly command line shell for Linux, macOS, and the rest of the family. Unlike previous shells, which disable certain features by default to save system resources, fish enables all features by default—finally, a command line shell for the 90s!
 
