@@ -35,7 +35,8 @@ A curation of packages, prompts, and resources for the [friendly interactive she
 
 ## Utilities
 
-- [Z](https://github.com/jethrokuan/z) - Pure-fish [rupa/z](https://github.com/rupa/z)-like directory jumping. See also: [fzf-fish-integration](https://github.com/patrickf3139/fzf-fish-integration).
+- [Z](https://github.com/jethrokuan/z) - Pure-fish [rupa/z](https://github.com/rupa/z)-like directory jumping.
+= [Fzf](https://github.com/patrickf3139/fzf.fish) - Integrate common fzf use cases into your workflow with mnemonic keybindings.
 - [Bax](https://github.com/jorgebucaran/fish-bax) - Run bash scripts, replaying environment changes in fish. See also: [edc/bass](https://github.com/edc/bass).
 - [Nvm](https://github.com/jorgebucaran/fish-nvm) - Pure-fish Node.js version manager. See also: [fish-nvm](https://github.com/FabioAntunes/fish-nvm), [fast-nvm](https://github.com/brigand/fast-nvm-fish).
 - [Done](https://github.com/franciscolourenco/done) - Automatically receive notifications when a long process finishes.
