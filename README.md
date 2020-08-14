@@ -46,6 +46,7 @@ A curation of plugins, prompts, and resources for the [friendly interactive shel
 - [Getopts](https://github.com/jorgebucaran/getopts.fish) - CLI options parser; alternative to the [`argparse`](https://fishshell.com/docs/current/cmds/argparse.html) builtin.
 - [Fishtape](https://github.com/jorgebucaran/fishtape) - TAP-based test runner for fish.
 - [Virtualfish](https://github.com/adambrenecki/virtualfish) - Virtualenv wrapper.
+- [Virtualfish-Jupyter](https://github.com/matan129/virtualfish-jupyter) - Virtualfish Jupyter kernel helper.
 - [Apple Touchbar](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your [Touch Bar](https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview) in iTerm2.
 - [Abbreviation Tips](https://github.com/Gazorby/fish-abbreviation-tips) - Help you remembering abbreviations by displaying tips when you can use them.
 
