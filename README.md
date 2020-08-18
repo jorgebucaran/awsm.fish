@@ -31,6 +31,8 @@ A curation of plugins, prompts, and resources for the [friendly interactive shel
 - [Mono](https://github.com/fishpkg/mono) - No bells or whistles, minimal shell prompt.
 - [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) - Powerline-style, Git-aware shell prompt.
 - [Async Prompt](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous!
+- [Spacefish](https://github.com/matchai/spacefish) - The fish shell prompt for astronauts
+
 
 ## Utilities
 
