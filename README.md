@@ -19,8 +19,8 @@ A curation of plugins, prompts, and resources for the [friendly interactive shel
 
 ## Plugin Managers
 
-- [Fisher](https://github.com/jorgebucaran/fisher) - Manage functions, completions, bindings, and snippets from the CLI. 
-- [Fundle](https://github.com/danhper/fundle) - <samp>config.fish</samp>-based plugin manager inspired by Vundle. 
+- [Fisher](https://github.com/jorgebucaran/fisher) - Manage functions, completions, bindings, and snippets from the CLI.
+- [Fundle](https://github.com/danhper/fundle) - <samp>config.fish</samp>-based plugin manager inspired by Vundle.
 - [Tacklebox](https://github.com/justinmayer/tacklebox) - Configuration framework for organizing and sharing utilities.
 - [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) - OMZ-inspired shell configuration framework.
 
@@ -46,6 +46,7 @@ A curation of plugins, prompts, and resources for the [friendly interactive shel
 - [Getopts](https://github.com/jorgebucaran/getopts.fish) - CLI options parser; alternative to the [`argparse`](https://fishshell.com/docs/current/cmds/argparse.html) builtin.
 - [Fishtape](https://github.com/jorgebucaran/fishtape) - TAP-based test runner for fish.
 - [Virtualfish](https://github.com/adambrenecki/virtualfish) - Virtualenv wrapper.
+- [Git Check Id](https://github.com/gazorby/fish-git-check-id) - Use multiple ssh identities across git repos
 - [Apple Touchbar](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your [Touch Bar](https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview) in iTerm2.
 - [Abbreviation Tips](https://github.com/Gazorby/fish-abbreviation-tips) - Help you remembering abbreviations by displaying tips when you can use them.
 
