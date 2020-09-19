@@ -48,6 +48,7 @@ A curation of plugins, prompts, and resources for the [friendly interactive shel
 - [Virtualfish](https://github.com/adambrenecki/virtualfish) - Virtualenv wrapper.
 - [Apple Touchbar](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your [Touch Bar](https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview) in iTerm2.
 - [Abbreviation Tips](https://github.com/Gazorby/fish-abbreviation-tips) - Help you remembering abbreviations by displaying tips when you can use them.
+- [xxh](https://github.com/xxh/xxh) - Bring fish shell wherever you go through the SSH.
 
 ## Docker
 
