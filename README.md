@@ -42,6 +42,7 @@ A curation of plugins, prompts, and resources for the [friendly interactive shel
 - [Done](https://github.com/franciscolourenco/done) - Automatically receive notifications when a long process finishes.
 - [Spark](https://github.com/jorgebucaran/spark.fish) - Pure-fish sparkline generator: ▁▂▃▅▂▇ in your shell.
 - [Pisces](https://github.com/laughedelic/pisces) - Autoclose parentheses, braces, quotes and other paired symbols in the command-line.
+- [Puffer Fish](https://github.com/nickeb96/puffer-fish) - Auto expand `...` to `../..`, `....` to `../../..` and so on.  Also expands `!!` to the previous command.
 - [Gitio](https://github.com/jorgebucaran/gitio.fish) - Create a tiny GitHub URL.
 - [GitNow](https://github.com/joseluisq/gitnow) - A collection of utility functions set to speed up your git workflow.
 - [Getopts](https://github.com/jorgebucaran/getopts.fish) - CLI options parser; alternative to the [`argparse`](https://fishshell.com/docs/current/cmds/argparse.html) builtin.
