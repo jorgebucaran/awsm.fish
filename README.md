@@ -46,6 +46,7 @@ A curation of plugins, prompts, and resources for the [friendly interactive shel
 - [GitNow](https://github.com/joseluisq/gitnow) - A collection of utility functions set to speed up your git workflow.
 - [Getopts](https://github.com/jorgebucaran/getopts.fish) - CLI options parser; alternative to the [`argparse`](https://fishshell.com/docs/current/cmds/argparse.html) builtin.
 - [Fishtape](https://github.com/jorgebucaran/fishtape) - TAP-based test runner for fish.
+- [Forgit](https://github.com/wfxr/forgit) - Utility tool for using git interactively. Powered by FZF
 - [Virtualfish](https://github.com/adambrenecki/virtualfish) - Virtualenv wrapper.
 - [Apple Touchbar](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your [Touch Bar](https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview) in iTerm2.
 - [Abbreviation Tips](https://github.com/Gazorby/fish-abbreviation-tips) - Help you remembering abbreviations by displaying tips when you can use them.
