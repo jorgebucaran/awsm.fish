@@ -29,20 +29,21 @@ A curation of plugins, prompts, and resources for the [friendly interactive shel
 - [Tide](https://github.com/IlanCosman/tide) - A modern prompt manager for fish.
 - [Pure](https://github.com/rafaelrinaldi/pure) - Port of the [original pure](https://github.com/sindresorhus/pure) prompt.
 - [Mono](https://github.com/fishpkg/mono) - No bells or whistles, minimal shell prompt.
+- [Lucid](https://github.com/mattgreen/lucid.fish) - Minimalist, high-performance prompt with async Git dirty check.
 - [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) - Powerline-style, Git-aware shell prompt.
 - [Async Prompt](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous!
-- [Lucid](https://github.com/mattgreen/lucid.fish) - Minimalist, high-performance prompt with async Git dirty check.
 
 ## Utilities
 
 - [Z](https://github.com/jethrokuan/z) - Pure-fish [rupa/z](https://github.com/rupa/z)-like directory jumping.
-- [Fzf](https://github.com/jethrokuan/fzf) - Ef-🐟ient fish keybindings for [fzf](https://github.com/junegunn/fzf). ([Alternative](https://github.com/patrickf3139/fzf.fish)).
+- [Fzf](https://github.com/jethrokuan/fzf) - Ef-🐟ient fish keybindings for [fzf](https://github.com/junegunn/fzf).
 - [Bax](https://github.com/jorgebucaran/bax.fish) - Run bash scripts from fish.
 - [Nvm](https://github.com/jorgebucaran/nvm.fish) - 100% pure-fish Node.js version manager. ([Alternative](https://github.com/FabioAntunes/fish-nvm)).
 - [Done](https://github.com/franciscolourenco/done) - Automatically receive notifications when a long process finishes.
 - [Spark](https://github.com/jorgebucaran/spark.fish) - Pure-fish sparkline generator: ▁▂▃▅▂▇ in your shell.
 - [Pisces](https://github.com/laughedelic/pisces) - Autoclose parentheses, braces, quotes and other paired symbols in the command-line.
 - [Gitio](https://github.com/jorgebucaran/gitio.fish) - Create a tiny GitHub URL.
+- [Fzf.fish](https:github.com/PatrickF1/fzf.fish) - Augment your fish command line with fzf key bindings.
 - [GitNow](https://github.com/joseluisq/gitnow) - A collection of utility functions set to speed up your git workflow.
 - [Getopts](https://github.com/jorgebucaran/getopts.fish) - CLI options parser; alternative to the [`argparse`](https://fishshell.com/docs/current/cmds/argparse.html) builtin.
 - [Fishtape](https://github.com/jorgebucaran/fishtape) - TAP-based test runner for fish.
