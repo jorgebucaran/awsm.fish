@@ -29,14 +29,14 @@ A curation of plugins, prompts, and resources for the [friendly interactive shel
 - [Tide](https://github.com/IlanCosman/tide) - A modern prompt manager for fish.
 - [Pure](https://github.com/rafaelrinaldi/pure) - Port of the [original pure](https://github.com/sindresorhus/pure) prompt.
 - [Mono](https://github.com/fishpkg/mono) - No bells or whistles, minimal shell prompt.
+- [Lucid](https://github.com/mattgreen/lucid.fish) - Minimalist, high-performance prompt with async Git dirty check.
 - [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) - Powerline-style, Git-aware shell prompt.
 - [Async Prompt](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous!
-- [Lucid](https://github.com/mattgreen/lucid.fish) - Minimalist, high-performance prompt with async Git dirty check.
 
 ## Utilities
 
 - [Z](https://github.com/jethrokuan/z) - Pure-fish [rupa/z](https://github.com/rupa/z)-like directory jumping.
-- [Fzf](https://github.com/jethrokuan/fzf) - Ef-🐟ient fish keybindings for [fzf](https://github.com/junegunn/fzf). ([Alternative](https://github.com/patrickf3139/fzf.fish)).
+- [Fzf](https://github.com/PatrickF1/fzf.fish) - Augment your fish command line with [fzf](https://github.com/junegunn/fzf) key bindings. ([Alternative](https://github.com/jethrokuan/fzf)).
 - [Bax](https://github.com/jorgebucaran/bax.fish) - Run bash scripts from fish.
 - [Nvm](https://github.com/jorgebucaran/nvm.fish) - 100% pure-fish Node.js version manager. ([Alternative](https://github.com/FabioAntunes/fish-nvm)).
 - [Done](https://github.com/franciscolourenco/done) - Automatically receive notifications when a long process finishes.
