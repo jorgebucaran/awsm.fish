@@ -32,6 +32,7 @@ A curation of plugins, prompts, and resources for the [friendly interactive shel
 - [Lucid](https://github.com/mattgreen/lucid.fish) - Minimalist, high-performance prompt with async Git dirty check.
 - [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) - Powerline-style, Git-aware shell prompt.
 - [Async Prompt](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous!
+- [Starship](https://github.com/starship/starship) - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell! (Formerly [Spacefish](https://github.com/matchai/spacefish))
 
 ## Utilities
 
