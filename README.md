@@ -33,7 +33,7 @@ A curation of plugins, prompts, and resources for the [friendly interactive shel
 - [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) - Powerline-style, Git-aware shell prompt.
 - [Async Prompt](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous!
 
-## Utilities
+## Plugins
 
 - [Z](https://github.com/jethrokuan/z) - Pure-fish [rupa/z](https://github.com/rupa/z)-like directory jumping.
 - [Fzf](https://github.com/PatrickF1/fzf.fish) - Augment your fish command line with [fzf](https://github.com/junegunn/fzf) key bindings. ([Alternative](https://github.com/jethrokuan/fzf)).
