@@ -41,7 +41,7 @@ A curation of plugins, prompts, and resources for the [friendly interactive shel
 - [Nvm](https://github.com/jorgebucaran/nvm.fish) - 100% pure-fish Node.js version manager. ([Alternative](https://github.com/FabioAntunes/fish-nvm)).
 - [Done](https://github.com/franciscolourenco/done) - Automatically receive notifications when a long process finishes.
 - [Spark](https://github.com/jorgebucaran/spark.fish) - Pure-fish sparkline generator: ▁▂▃▅▂▇ in your shell.
-- [Autopair](https://github.com/jorgebucaran/autopair.fish) - Automatically insert, erase, and skip matching delimiters in the command-line. ([Alternative](https://github.com/laughedelic/pisces)).
+- [Autopair](https://github.com/jorgebucaran/autopair.fish) - Automatically insert, erase, and skip matching pairs in the command-line. ([Alternative](https://github.com/laughedelic/pisces)).
 - [Gitio](https://github.com/jorgebucaran/gitio.fish) - Create a tiny GitHub URL.
 - [GitNow](https://github.com/joseluisq/gitnow) - A collection of utility functions set to speed up your git workflow.
 - [Getopts](https://github.com/jorgebucaran/getopts.fish) - CLI options parser; alternative to the [`argparse`](https://fishshell.com/docs/current/cmds/argparse.html) builtin.
