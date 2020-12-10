@@ -1,6 +1,6 @@
 # awsm.fish [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> [Fish](https://fishshell.com/) is a smart and user-friendly command line shell for Linux, macOS, and the rest of the family. Unlike previous shells, which disable certain features by default to save system resources, Fish enables all features by default—finally, a command line shell for the 90s!
+> [Fish](https://fishshell.com/) is a smart & user-friendly command line shell for Linux, macOS, and the rest of the family. Unlike other shells, which disable certain features by default to save system resources, Fish enables all features by default—finally, a command line shell for the 90s!
 
 A curation of plugins, prompts, and resources for the [friendly interactive shell](https://fishshell.com). This page is not an official Fish project. We do not to advertise for profit. Want to have your project featured here? [Send us a pull request](https://github.com/jorgebucaran/awesome-fish/fork).
 
