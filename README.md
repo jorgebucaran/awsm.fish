@@ -15,7 +15,7 @@ A curation of plugins, prompts, and resources for the [friendly interactive shel
 - [r/fishshell](https://www.reddit.com/r/fishshell)
 - [Gitter Channel](https://gitter.im/fish-shell/fish-shell)
 - [StackOverflow `#fish`](https://stackoverflow.com/questions/tagged/fish)
-- [The Fish Cookbook](https://github.com/jorgebucaran/cookbook.fish)
+- [The Fish Cookbook](https://github.com/jorgebucaran/cookbook.fish) 🍣
 
 ## Plugin Managers
 
