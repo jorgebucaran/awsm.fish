@@ -20,9 +20,9 @@ A curation of plugins, prompts, and resources for the [friendly interactive shel
 ## Plugin Managers
 
 - [Fisher](https://github.com/jorgebucaran/fisher) - Manage functions, completions, bindings, and snippets from the CLI.
-- [Fundle](https://github.com/danhper/fundle) - <samp>config.fish</samp>-based plugin manager inspired by Vundle.
-- [Tacklebox](https://github.com/justinmayer/tacklebox) - Configuration framework for organizing and sharing utilities.
+- [Fundle](https://github.com/danhper/fundle) - `config.fish`-based plugin manager inspired by Vundle.
 - [Oh My Fish](https://github.com/oh-my-fish/oh-my-fish) - OMZ-inspired shell configuration framework.
+- [Tacklebox](https://github.com/justinmayer/tacklebox) - Configuration framework for organizing and sharing utilities.
 
 ## Prompts
 
