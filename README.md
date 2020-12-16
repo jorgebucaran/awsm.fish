@@ -28,7 +28,7 @@ A curation of plugins, prompts, and resources for the [friendly interactive shel
 
 - [Tide](https://github.com/IlanCosman/tide) - A modern prompt manager for Fish.
 - [Pure](https://github.com/rafaelrinaldi/pure) - Pretty, minimal Fish prompt ported from the [zsh original](https://github.com/sindresorhus/pure).
-- [Fly](https://github.com/jorgebucaran/fly.fish) - Unobtrusive, minimal command-line prompt that flies~%!
+- [Fly](https://github.com/jorgebucaran/fly.fish) - Unobtrusive Fish prompt with async Git status.
 - [Lucid](https://github.com/mattgreen/lucid.fish) - Minimal, high-performance prompt with async Git dirty check.
 - [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) - Powerline-style, Git-aware shell prompt.
 - [Async Prompt](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous!
