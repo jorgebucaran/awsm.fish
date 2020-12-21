@@ -17,11 +17,6 @@ A curation of plugins, prompts, and resources for the [friendly interactive shel
 - [StackOverflow `#fish`](https://stackoverflow.com/questions/tagged/fish)
 - [The Fish Cookbook](https://github.com/jorgebucaran/cookbook.fish) 🍣
 
-## Plugin Managers
-
-- [Oh My Fish](https://github.com/oh-my-fish/oh-my-fish) - OMZ-inspired shell configuration framework.
-- [Tacklebox](https://github.com/justinmayer/tacklebox) - Configuration framework for organizing and sharing utilities.
-
 ## Prompts
 
 - [Tide](https://github.com/IlanCosman/tide) - A modern prompt manager for Fish.
