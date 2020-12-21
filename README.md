@@ -19,8 +19,6 @@ A curation of plugins, prompts, and resources for the [friendly interactive shel
 
 ## Plugin Managers
 
-- [Fisher](https://github.com/jorgebucaran/fisher) - Manage functions, completions, bindings, and snippets from the CLI.
-- [Fundle](https://github.com/danhper/fundle) - `config.fish`-based plugin manager inspired by Vundle.
 - [Oh My Fish](https://github.com/oh-my-fish/oh-my-fish) - OMZ-inspired shell configuration framework.
 - [Tacklebox](https://github.com/justinmayer/tacklebox) - Configuration framework for organizing and sharing utilities.
 
@@ -41,6 +39,8 @@ A curation of plugins, prompts, and resources for the [friendly interactive shel
 - [Replay](https://github.com/jorgebucaran/replay.fish) - Run Bash commands replaying changes in Fish. ([Alternative](https://github.com/edc/bass))
 - [Spark](https://github.com/jorgebucaran/spark.fish) - Pure-Fish sparkline generator.
 - [Gitio](https://github.com/jorgebucaran/gitio.fish) - Create a custom git.io URL.
+- [Fisher](https://github.com/jorgebucaran/fisher) - Manage functions, completions, bindings, and snippets from the CLI.
+- [Fundle](https://github.com/danhper/fundle) - `config.fish`-based plugin manager inspired by Vundle.
 - [GitNow](https://github.com/joseluisq/gitnow) - A collection of utility functions to speed up your git workflow.
 - [Autopair](https://github.com/jorgebucaran/autopair.fish) - Auto-complete matching pairs in the Fish command line. 🥊 ([Alternative](https://github.com/laughedelic/pisces)).
 - [Getopts](https://github.com/jorgebucaran/getopts.fish) - CLI options parser (alternative to the [`argparse`](https://fishshell.com/docs/current/cmds/argparse.html) builtin).
