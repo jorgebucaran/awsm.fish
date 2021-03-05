@@ -44,5 +44,5 @@ A curation of plugins, prompts, and resources for the [friendly interactive shel
 - [Abbreviation Tips](https://github.com/Gazorby/fish-abbreviation-tips) - Remembering abbreviations by displaying tips when you can use them.
 
 ## Docker
-
-- [Ubuntu LTS container](https://hub.docker.com/r/dideler/fish-shell)
+- [Alpine containers](https://hub.docker.com/r/andreiborisov/fish)
+- [Ubuntu LTS containers](https://hub.docker.com/r/dideler/fish-shell)
