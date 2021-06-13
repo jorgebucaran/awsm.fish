@@ -22,6 +22,7 @@ A curation of plugins, prompts, and resources for the [friendly interactive shel
 - [Tide](https://github.com/IlanCosman/tide) - A modern prompt manager for Fish.
 - [Pure](https://github.com/rafaelrinaldi/pure) - One-to-one port of [_that_](https://github.com/sindresorhus/pure) ZSH prompt to Fish.
 - [Hydro](https://github.com/jorgebucaran/hydro) - Minimal, lag-free prompt with async Git status.
+- [Spartan](https://github.com/mbullington/spartan.fish) - A colorful Fish shell prompt with "spartan" features. Pairs very well with iTerm status bar.
 
 ## Plugins
 
