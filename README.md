@@ -25,6 +25,7 @@ A curation of plugins, prompts, and resources for the [friendly interactive shel
 
 ## Plugins
 
+- [zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command for your terminal.
 - [z](https://github.com/jethrokuan/z) - Pure-Fish [`rupa/z`](https://github.com/rupa/z)-like directory jumping.
 - [fzf](https://github.com/PatrickF1/fzf.fish) - Ef-🐟-ient key bindings for [`junegunn/fzf`](https://github.com/junegunn/fzf). ([Alternative](https://github.com/jethrokuan/fzf)).
 - [nvm](https://github.com/jorgebucaran/nvm.fish) - Node.js version manager lovingly made for Fish.
