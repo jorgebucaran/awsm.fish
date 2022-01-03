@@ -42,7 +42,7 @@ A curation of plugins, prompts, and resources for the [friendly interactive shel
 - [Async Prompt](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous.
 - [Apple Touchbar](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your [Touch Bar](https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview) in iTerm2.
 - [Abbreviation Tips](https://github.com/Gazorby/fish-abbreviation-tips) - Remembering abbreviations by displaying tips when you can use them.
-
+- [Web Search](https://github.com/Veirt/web-search.fish) - A plugin to do a web search via fish. Inspired by [`oh-my-zsh/web-search`](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/web-search)
 ## Docker
 
 - [Alpine Image](https://hub.docker.com/r/andreiborisov/fish)
