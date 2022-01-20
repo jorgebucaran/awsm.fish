@@ -31,7 +31,6 @@ A curation of plugins, prompts, and resources for the [friendly interactive shel
 - [Done](https://github.com/franciscolourenco/done) - Automatically receive notifications after a long process finishes.
 - [Replay](https://github.com/jorgebucaran/replay.fish) - Run Bash commands replaying changes in Fish. ([Alternative](https://github.com/edc/bass))
 - [Spark](https://github.com/jorgebucaran/spark.fish) - Sparklines for Fish.
-- [Gitio](https://github.com/jorgebucaran/gitio.fish) - Create a custom git.io URL.
 - [Fisher](https://github.com/jorgebucaran/fisher) - Manage functions, completions, bindings, and snippets from the CLI.
 - [Fundle](https://github.com/danhper/fundle) - `config.fish`-based plugin manager.
 - [GitNow](https://github.com/joseluisq/gitnow) - A collection of utility functions to speed up your git workflow.
