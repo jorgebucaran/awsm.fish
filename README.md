@@ -42,6 +42,14 @@ A curation of plugins, prompts, and resources for the [friendly interactive shel
 - [Async Prompt](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous.
 - [Apple Touchbar](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your [Touch Bar](https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview) in iTerm2.
 - [Abbreviation Tips](https://github.com/Gazorby/fish-abbreviation-tips) - Remembering abbreviations by displaying tips when you can use them.
+- [Brew completions](https://github.com/laughedelic/brew-completions) - auto completes brew commands
+- [g2](https://github.com/orefalo/g2) - a simplified git workflow/cli
+- [Linux Free](github.com/orefalo/free) - the linux 'free' command at your finger tips
+- [JAVA_HOME](https://github.com/orefalo/javahome) - finds the best matching JVM and sets JAVA_HOME
+- [grc](https://github.com/orefalo/grc) - enables colorization for legacy commands
+- [ColorManPages](https://github.com/PatrickF1/colored_man_pages.fish) - adds colors to man pages
+- [kubectl completions](https://github.com/evanlucas/fish-kubectl-completions) - auto completions for k8s
+- [docker compose autocompletions](https://github.com/brgmnn/fish-docker-compose) - auto completes docker compose commands
 
 ## Docker
 
