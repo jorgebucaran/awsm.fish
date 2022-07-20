@@ -44,6 +44,10 @@ A curation of plugins, prompts, and resources for the [friendly interactive shel
 - [Apple Touchbar](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your [Touch Bar](https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview) in iTerm2.
 - [Abbreviation Tips](https://github.com/Gazorby/fish-abbreviation-tips) - Remembering abbreviations by displaying tips when you can use them.
 
+### Command Completions
+
+- [saml2aws-fish-completions](https://github.com/ManoManoTech/saml2aws-fish-completions/) - Provides shell completion of saml2aws in Fish
+
 ## Docker
 
 - [Alpine Image](https://hub.docker.com/r/andreiborisov/fish)
