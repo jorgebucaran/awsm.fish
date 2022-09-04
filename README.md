@@ -24,7 +24,7 @@ A curation of plugins, prompts, and resources for the [friendly interactive shel
 - [Hydro](https://github.com/jorgebucaran/hydro) - Minimal, lag-free prompt with async Git status.
 
 ## Plugins
-
+- [x](https://github.com/Molyuu/x) - An extract plugin for fish,insipired by [extract in oh my zsh](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/extract/extract.plugin.zsh)
 - [z](https://github.com/jethrokuan/z) - Pure-Fish [`rupa/z`](https://github.com/rupa/z)-like directory jumping.
 - [fzf](https://github.com/PatrickF1/fzf.fish) - Ef-🐟-ient key bindings for [`junegunn/fzf`](https://github.com/junegunn/fzf). ([Alternative](https://github.com/jethrokuan/fzf)).
 - [nvm](https://github.com/jorgebucaran/nvm.fish) - Node.js version manager lovingly made for Fish.
