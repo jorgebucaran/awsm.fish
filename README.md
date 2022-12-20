@@ -46,5 +46,5 @@ A curation of plugins, prompts, and resources for the [friendly interactive shel
 
 ## Docker
 
-- [Alpine Image](https://hub.docker.com/r/andreiborisov/fish)
+- [Alpine Image](https://hub.docker.com/r/purefish/docker-fish)
 - [Ubuntu LTS Image](https://hub.docker.com/r/dideler/fish-shell)
