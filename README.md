@@ -39,6 +39,7 @@ A curation of plugins, prompts, and resources for the [friendly interactive shel
 - [Getopts](https://github.com/jorgebucaran/getopts.fish) - CLI options parser (alternative to the [`argparse`](https://fishshell.com/docs/current/cmds/argparse.html) builtin).
 - [Fishtape](https://github.com/jorgebucaran/fishtape) - TAP-based test runner for Fish.
 - [Pufferfish](https://github.com/nickeb96/puffer-fish) - Text Expansions for Fish.
+- [fc](https://github.com/lengyijun/fc-fish) - Bash style fc for Fish.
 - [Virtualfish](https://github.com/adambrenecki/virtualfish) - Virtualenv wrapper.
 - [Async Prompt](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous.
 - [Apple Touchbar](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your [Touch Bar](https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview) in iTerm2.
