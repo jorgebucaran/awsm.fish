@@ -39,7 +39,7 @@ Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other
 - [Getopts](https://github.com/jorgebucaran/getopts.fish) - CLI options parser (alternative to the [`argparse`](https://fishshell.com/docs/current/cmds/argparse.html) builtin).
 - [Fishtape](https://github.com/jorgebucaran/fishtape) - TAP-based test runner for Fish.
 - [Pufferfish](https://github.com/nickeb96/puffer-fish) - Text Expansions for Fish.
-- [Virtualfish](https://github.com/adambrenecki/virtualfish) - Virtualenv wrapper.
+- [Virtualfish](https://github.com/adambrenecki/virtualfish) - Virtualenv wrapper. ([Alternative](https://github.com/nakulj/auto-venv))
 - [Async Prompt](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous.
 - [Apple Touchbar](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your [Touch Bar](https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview) in iTerm2.
 - [Abbreviation Tips](https://github.com/Gazorby/fish-abbreviation-tips) - Remembering abbreviations by displaying tips when you can use them.
