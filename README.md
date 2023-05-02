@@ -1,8 +1,8 @@
 # awsm.fish [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> [Fish](https://fishshell.com/) is a smart & user-friendly command line shell for Linux, macOS, and the rest of the family. Unlike other shells, which disable certain features by default to save system resources, Fish enables all features by default—finally, a command line shell for the 90s!
+> Fish is the sassy & user-friendly command line shell you never knew you needed for Linux, macOS, and the whole gang. Out with the old-fashioned shells that skimp on features for the sake of every last byte of RAM—finally, a command line shell for the 90s!
 
-A curation of plugins, prompts, and other treasures for the [friendly interactive shell](https://fishshell.com). This page is not an official Fish project. We do not to advertise for profit. Want to have your project featured here? [Send us a pull request](https://github.com/jorgebucaran/awesome-fish/fork).
+Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other [Fish](https://fishshell.com/) goodies. You see, this isn't just any collection—we curate only the best of the best Fish projects for your friendly interactive shell. Heads up, this page isn't an official Fish project. Got a top-notch project you want featured here? [Send us a pull request](https://github.com/jorgebucaran/awesome-fish/fork), join the crew!
 
 ## Official Resources
 
@@ -12,16 +12,16 @@ A curation of plugins, prompts, and other treasures for the [friendly interactiv
 
 ## Community Resources
 
-- [r/fishshell](https://www.reddit.com/r/fishshell)
-- [Gitter Channel](https://gitter.im/fish-shell/fish-shell)
-- [StackOverflow `#fish`](https://stackoverflow.com/questions/tagged/fish)
-- [The Fish Cookbook](https://github.com/jorgebucaran/cookbook.fish) 🍣
+- [r/fishshell](https://www.reddit.com/r/fishshell) - The Reddit hangout
+- [Gitter Channel](https://gitter.im/fish-shell/fish-shell) - Come chat with us!
+- [StackOverflow `#fish`](https://stackoverflow.com/questions/tagged/fish) - Got questions? We've got answers
+- [The Fish Cookbook](https://github.com/jorgebucaran/cookbook.fish) 🍣 - Delicious recipes for Fish
 
 ## Prompts
 
-- [Tide](https://github.com/IlanCosman/tide) - A modern prompt manager for Fish.
-- [Pure](https://github.com/rafaelrinaldi/pure) - One-to-one port of [_that_](https://github.com/sindresorhus/pure) ZSH prompt to Fish.
-- [Hydro](https://github.com/jorgebucaran/hydro) - Minimal, lag-free prompt with async Git status.
+- [Tide](https://github.com/IlanCosman/tide) - A modern prompt manager for Fish
+- [Pure](https://github.com/rafaelrinaldi/pure) - [_That_](https://github.com/sindresorhus/pure) ZSH prompt, now in Fish flavor
+- [Hydro](https://github.com/jorgebucaran/hydro) - Lag-free prompt with async Git status (ooh la la)
 
 ## Plugins
 
