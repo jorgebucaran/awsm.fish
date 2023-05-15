@@ -14,8 +14,8 @@ Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other
 
 - [r/fishshell](https://www.reddit.com/r/fishshell) - The Reddit hangout
 - [Gitter Channel](https://gitter.im/fish-shell/fish-shell) - Come chat with us!
-- [StackOverflow `#fish`](https://stackoverflow.com/questions/tagged/fish) - Got questions? We've got answers
-- [The Fish Cookbook](https://github.com/jorgebucaran/cookbook.fish) 🍣 - Delicious recipes for Fish
+- [StackOverflow `#fish`](https://stackoverflow.com/questions/tagged/fish) - Got questions? We've got answers!
+- [The Fish Cookbook](https://github.com/jorgebucaran/cookbook.fish) 🦞 - From Shell to Plate: Savor the Zest of Fish 
 
 ## Prompts
 
