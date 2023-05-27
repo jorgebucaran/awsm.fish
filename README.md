@@ -44,6 +44,7 @@ Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other
 - [Apple Touchbar](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your [Touch Bar](https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview) in iTerm2
 - [Abbreviation Tips](https://github.com/Gazorby/fish-abbreviation-tips) - Remembering abbreviations by displaying tips when you can use them
 - [Base16 Fish](https://github.com/FabioAntunes/base16-fish-shell) - A pure Fish solution to change your shell's default ANSI colors
+- [github-copilot-cli.fish](https://github.com/z11i/github-copilot-cli.fish) - Enable GitHub Copilot CLI with alias `!!`, instead of `??`
 
 ## Docker
 
