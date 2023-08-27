@@ -15,7 +15,7 @@ Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other
 - [r/fishshell](https://www.reddit.com/r/fishshell) - The Reddit hangout
 - [Gitter Channel](https://gitter.im/fish-shell/fish-shell) - Come chat with us!
 - [StackOverflow `#fish`](https://stackoverflow.com/questions/tagged/fish) - Got questions? We've got answers!
-- [The Fish Cookbook](https://github.com/jorgebucaran/cookbook.fish) 🦞 - From Shell to Plate: Savor the Zest of Fish 
+- [The Fish Cookbook](https://github.com/jorgebucaran/cookbook.fish) 🦞 - From Shell to Plate: Savor the Zest of Fish
 
 ## Prompts
 
@@ -45,6 +45,7 @@ Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other
 - [Apple Touchbar](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your [Touch Bar](https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview) in iTerm2
 - [Abbreviation Tips](https://github.com/Gazorby/fish-abbreviation-tips) - Remembering abbreviations by displaying tips when you can use them
 - [Base16 Fish](https://github.com/FabioAntunes/base16-fish-shell) - A pure Fish solution to change your shell's default ANSI colors
+- [xd](https://github.com/kuncevic/execute-dir.fish) - A Fish plugin for running scripts in target folder
 
 ## Docker
 
