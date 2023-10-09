@@ -15,13 +15,22 @@ Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other
 - [r/fishshell](https://www.reddit.com/r/fishshell) - The Reddit hangout
 - [Gitter Channel](https://gitter.im/fish-shell/fish-shell) - Come chat with us!
 - [StackOverflow `#fish`](https://stackoverflow.com/questions/tagged/fish) - Got questions? We've got answers!
-- [The Fish Cookbook](https://github.com/jorgebucaran/cookbook.fish) 🦞 - From Shell to Plate: Savor the Zest of Fish 
+- [The Fish Cookbook](https://github.com/jorgebucaran/cookbook.fish) 🦞 - From Shell to Plate: Savor the Zest of Fish
 
 ## Prompts
 
 - [Tide](https://github.com/IlanCosman/tide) - A modern prompt manager for Fish
 - [Pure](https://github.com/rafaelrinaldi/pure) - [_That_](https://github.com/sindresorhus/pure) ZSH prompt, now in Fish flavor
 - [Hydro](https://github.com/jorgebucaran/hydro) - Lag-free prompt with async Git status (ooh la la)
+
+## Plugin Managers
+
+Before installing any plugins, you need to install a plugin manager which makes managing and updating them easier
+
+- [Fisher](https://github.com/jorgebucaran/fisher) - Manage functions, completions, bindings, and snippets from the CLI
+- [Fundle](https://github.com/danhper/fundle) - `config.fish`-based plugin manager
+- [Paket](https://github.com/joseluisq/paket) - a `git` based plugin manager written in rust
+
 
 ## Plugins
 
@@ -31,8 +40,6 @@ Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other
 - [Done](https://github.com/franciscolourenco/done) - Automatically receive notifications after a long process finishes
 - [Replay](https://github.com/jorgebucaran/replay.fish) - Run Bash commands replaying changes in Fish. ([Alternative](https://github.com/edc/bass))
 - [Spark](https://github.com/jorgebucaran/spark.fish) - Sparklines for Fish
-- [Fisher](https://github.com/jorgebucaran/fisher) - Manage functions, completions, bindings, and snippets from the CLI
-- [Fundle](https://github.com/danhper/fundle) - `config.fish`-based plugin manager
 - [GitNow](https://github.com/joseluisq/gitnow) - A collection of utility functions to speed up your git workflow
 - [Sponge](https://github.com/meaningful-ooo/sponge) - Clean command history from typos automatically
 - [Autopair](https://github.com/jorgebucaran/autopair.fish) - Auto-complete matching pairs in the Fish command-line. ([Alternative](https://github.com/laughedelic/pisces))
@@ -47,6 +54,11 @@ Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other
 - [Base16 Fish](https://github.com/FabioAntunes/base16-fish-shell) - A pure Fish solution to change your shell's default ANSI colors
 
 ## Docker
+
+These are docker images to test out fish without permanently installing it on your system.
+To use it:
+1. First install `docker` on your system. Follow the [official documentation](https://docs.docker.com/get-docker) for that.
+2. Then run `docker run --rm -it <docker-image-name>`.
 
 - [Alpine Image](https://hub.docker.com/r/purefish/docker-fish)
 - [Ubuntu LTS Image](https://hub.docker.com/r/dideler/fish-shell)
