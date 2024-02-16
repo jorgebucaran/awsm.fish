@@ -42,6 +42,7 @@ Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other
 - [Projectdo](https://github.com/paldepind/projectdo) - Context-aware single-letter abbreviations to build, run, and test any project
 - [Virtualfish](https://github.com/adambrenecki/virtualfish) - Virtualenv wrapper
 - [Async Prompt](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous
+- [Transient](https://github.com/zzhaolei/transient.fish) - Make your prompt transient
 - [Apple Touchbar](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your [Touch Bar](https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview) in iTerm2
 - [Abbreviation Tips](https://github.com/Gazorby/fish-abbreviation-tips) - Remembering abbreviations by displaying tips when you can use them
 - [Base16 Fish](https://github.com/FabioAntunes/base16-fish-shell) - A pure Fish solution to change your shell's default ANSI colors
