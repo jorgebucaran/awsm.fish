@@ -4,6 +4,14 @@
 
 Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other [Fish](https://fishshell.com/) goodies. You see, this isn't just any collection—we curate only the best of the best Fish projects for your friendly interactive shell. Got a top-notch project you want featured here? [Send us a pull request](https://github.com/jorgebucaran/awesome-fish/fork), join the crew!
 
+## Contents
+
+- [Official Resources](#official-resources)
+- [Community Resources](#community-resources)
+- [Prompts](#prompts)
+- [Plugins](#plugins)
+- [Docker](#docker)
+
 ## Official Resources
 
 - [Official Site](https://fishshell.com)
@@ -14,8 +22,8 @@ Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other
 
 - [r/fishshell](https://www.reddit.com/r/fishshell) - The Reddit hangout
 - [Gitter Channel](https://gitter.im/fish-shell/fish-shell) - Come chat with us!
-- [StackOverflow `#fish`](https://stackoverflow.com/questions/tagged/fish) - Got questions? We've got answers!
-- [The Fish Cookbook](https://github.com/jorgebucaran/cookbook.fish) 🦞 - From Shell to Plate: Savor the Zest of Fish 
+- [Stack Overflow `#fish`](https://stackoverflow.com/questions/tagged/fish) - Got questions? We've got answers!
+- [The Fish Cookbook](https://github.com/jorgebucaran/cookbook.fish) - From Shell to Plate: Savor the Zest of Fish 🦞
 
 ## Prompts
 
