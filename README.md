@@ -46,6 +46,13 @@ Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other
 - [Abbreviation Tips](https://github.com/Gazorby/fish-abbreviation-tips) - Remembering abbreviations by displaying tips when you can use them
 - [Base16 Fish](https://github.com/FabioAntunes/base16-fish-shell) - A pure Fish solution to change your shell's default ANSI colors
 
+## Abbreviations
+
+- [common](https://github.com/lewisacidic/fish-scripting-abbr) - Common shell abbreviations with arguments like `l.` for `ls -a`, `md` for `mkdir -p`, `~` to go to home directory, etc.
+- [git](https://github.com/lewisacidic/fish-git-abbr) - git abbreviations with arguments like `gbd` for `git branch -d`, `gc` for `git commit -v`, `gp` for `git push`, etc.
+- [tmux](https://github.com/lewisacidic/fish-tmux-abbr) - tmux abbreviations with arguments like `ta` for `tmux attach -t`, `tl` for `tmux list-sessions`, `ts` for `tmux new-session -s`, etc.
+- [kubectl](https://github.com/lewisacidic/fish-kubectl-abbr) - kubectl abbreviations with arguments like `kaf` for `kubectl apply -f`, `klf` for `kubectl logs -f`, `kcsc` for `kubectl config set-context`, etc.
+
 ## Docker
 
 - [Alpine Image](https://hub.docker.com/r/purefish/docker-fish)
