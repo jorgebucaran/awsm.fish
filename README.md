@@ -10,28 +10,29 @@ Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other
 - [Community Resources](#community-resources)
 - [Prompts](#prompts)
 - [Plugins](#plugins)
+- [Abbreviations](#abbreviations)
 - [Docker](#docker)
 
-## Official Resources
+### Official Resources
 
 - [Official Site](https://fishshell.com)
 - [GitHub Repository](https://github.com/fish-shell/fish-shell)
 - [Try in browser!](https://rootnroll.com/d/fish-shell/) 🍤
 
-## Community Resources
+### Community Resources
 
 - [r/fishshell](https://www.reddit.com/r/fishshell) - The Reddit hangout
 - [Gitter Channel](https://gitter.im/fish-shell/fish-shell) - Come chat with us!
 - [Stack Overflow `#fish`](https://stackoverflow.com/questions/tagged/fish) - Got questions? We've got answers!
 - [The Fish Cookbook](https://github.com/jorgebucaran/cookbook.fish) - From Shell to Plate: Savor the Zest of Fish 🦞
 
-## Prompts
+### Prompts
 
 - [Tide](https://github.com/IlanCosman/tide) - A modern prompt manager for Fish
 - [Pure](https://github.com/pure-fish/pure/) - [_That_](https://github.com/sindresorhus/pure) ZSH prompt, now in Fish flavor
 - [Hydro](https://github.com/jorgebucaran/hydro) - Lag-free prompt with async Git status (ooh la la)
 
-## Plugins
+### Plugins
 
 - [z](https://github.com/jethrokuan/z) - Pure-Fish [`rupa/z`](https://github.com/rupa/z)-like directory jumping
 - [fzf](https://github.com/PatrickF1/fzf.fish) - Ef-🐟-ient key bindings for [`junegunn/fzf`](https://github.com/junegunn/fzf). ([Alternative](https://github.com/jethrokuan/fzf))
@@ -54,14 +55,14 @@ Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other
 - [Abbreviation Tips](https://github.com/Gazorby/fish-abbreviation-tips) - Remembering abbreviations by displaying tips when you can use them
 - [Base16 Fish](https://github.com/FabioAntunes/base16-fish-shell) - A pure Fish solution to change your shell's default ANSI colors
 
-## Abbreviations
+### Abbreviations
 
 - [common](https://github.com/lewisacidic/fish-scripting-abbr) - Common shell abbreviations with arguments like `l.` for `ls -a`, `md` for `mkdir -p`, `~` to go to home directory, etc.
 - [git](https://github.com/lewisacidic/fish-git-abbr) - git abbreviations with arguments like `gbd` for `git branch -d`, `gc` for `git commit -v`, `gp` for `git push`, etc.
 - [tmux](https://github.com/lewisacidic/fish-tmux-abbr) - tmux abbreviations with arguments like `ta` for `tmux attach -t`, `tl` for `tmux list-sessions`, `ts` for `tmux new-session -s`, etc.
 - [kubectl](https://github.com/lewisacidic/fish-kubectl-abbr) - kubectl abbreviations with arguments like `kaf` for `kubectl apply -f`, `klf` for `kubectl logs -f`, `kcsc` for `kubectl config set-context`, etc.
 
-## Docker
+### Docker
 
 - [Alpine Image](https://hub.docker.com/r/purefish/docker-fish)
 - [Ubuntu LTS Image](https://hub.docker.com/r/dideler/fish-shell)
