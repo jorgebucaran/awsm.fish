@@ -54,6 +54,7 @@ Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other
 - [Abbreviation Tips](https://github.com/Gazorby/fish-abbreviation-tips) - Remembering abbreviations by displaying tips when you can use them
 - [Base16 Fish](https://github.com/FabioAntunes/base16-fish-shell) - A pure Fish solution to change your shell's default ANSI colors
 - [autopy.fish](https://github.com/SpaceShaman/autopy.fish) - Automatically activates a Python virtual environment (venv or Poetry) when entering a project directory.
+- [autoenv.fish](https://github.com/SpaceShaman/autopy.fish) - Automatically loads environment variables from a `.env` file in the current project. 
 
 ## Docker
 
