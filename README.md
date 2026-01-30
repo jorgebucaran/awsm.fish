@@ -44,6 +44,7 @@ Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other
 - [Sponge](https://github.com/meaningful-ooo/sponge) - Clean command history from typos automatically
 - [Autopair](https://github.com/jorgebucaran/autopair.fish) - Auto-complete matching pairs in the Fish command-line. ([Alternative](https://github.com/laughedelic/pisces))
 - [Getopts](https://github.com/jorgebucaran/getopts.fish) - CLI options parser (alternative to the [`argparse`](https://fishshell.com/docs/current/cmds/argparse.html) builtin)
+- [enhancd](https://github.com/babarot/enhancd) - An enhanced `cd` command integrated with a command line fuzzy finder
 - [Fishtape](https://github.com/jorgebucaran/fishtape) - TAP-based test runner for Fish
 - [Pufferfish](https://github.com/nickeb96/puffer-fish) - Text Expansions for Fish
 - [Projectdo](https://github.com/paldepind/projectdo) - Context-aware single-letter abbreviations to build, run, and test any project
