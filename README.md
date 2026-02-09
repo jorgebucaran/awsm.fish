@@ -42,6 +42,7 @@ Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other
 - [Fundle](https://github.com/danhper/fundle) - `config.fish`-based plugin manager
 - [GitNow](https://github.com/joseluisq/gitnow) - A collection of utility functions to speed up your git workflow
 - [Sponge](https://github.com/meaningful-ooo/sponge) - Clean command history from typos automatically
+- [spb](https://github.com/henri/spb) - Start as many private isolated browsers as your system has resources
 - [Autopair](https://github.com/jorgebucaran/autopair.fish) - Auto-complete matching pairs in the Fish command-line. ([Alternative](https://github.com/laughedelic/pisces))
 - [Getopts](https://github.com/jorgebucaran/getopts.fish) - CLI options parser (alternative to the [`argparse`](https://fishshell.com/docs/current/cmds/argparse.html) builtin)
 - [Fishtape](https://github.com/jorgebucaran/fishtape) - TAP-based test runner for Fish
