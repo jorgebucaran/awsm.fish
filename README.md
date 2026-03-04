@@ -51,6 +51,7 @@ Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other
 - [Virtualfish](https://github.com/adambrenecki/virtualfish) - Virtualenv wrapper
 - [Async Prompt](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous
 - [Apple Touchbar](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your [Touch Bar](https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview) in iTerm2
+- [iTerm Directory Colors](https://github.com/davidtyemnyak/iterm_directory_colors) - Automatic iTerm2 tab colors based on your current directory
 - [Abbreviation Tips](https://github.com/Gazorby/fish-abbreviation-tips) - Remembering abbreviations by displaying tips when you can use them
 - [Base16 Fish](https://github.com/FabioAntunes/base16-fish-shell) - A pure Fish solution to change your shell's default ANSI colors
 
