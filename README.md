@@ -50,6 +50,7 @@ Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other
 - [Magic Enter](https://github.com/mattmc3/magic-enter.fish) - Run a default command when no command was given
 - [Virtualfish](https://github.com/adambrenecki/virtualfish) - Virtualenv wrapper
 - [Async Prompt](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous
+- [History Sync](https://github.com/RWejlgaard/history-sync.fish) - Sync fish shell history between multiple machines over SFTP, S3 or Git
 - [Apple Touchbar](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your [Touch Bar](https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview) in iTerm2
 - [Abbreviation Tips](https://github.com/Gazorby/fish-abbreviation-tips) - Remembering abbreviations by displaying tips when you can use them
 - [Base16 Fish](https://github.com/FabioAntunes/base16-fish-shell) - A pure Fish solution to change your shell's default ANSI colors
