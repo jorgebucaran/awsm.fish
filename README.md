@@ -35,6 +35,7 @@ Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other
 - [z](https://github.com/jethrokuan/z) - Pure-Fish [`rupa/z`](https://github.com/rupa/z)-like directory jumping
 - [fzf](https://github.com/PatrickF1/fzf.fish) - Ef-🐟-ient key bindings for [`junegunn/fzf`](https://github.com/junegunn/fzf). ([Alternative](https://github.com/jethrokuan/fzf))
 - [nvm](https://github.com/jorgebucaran/nvm.fish) - Node.js version manager lovingly made for Fish
+- [carp](https://github.com/JerneV/carp) - Automatically correct typos based on autocomplete information. 
 - [Done](https://github.com/franciscolourenco/done) - Automatically receive notifications after a long process finishes
 - [Replay](https://github.com/jorgebucaran/replay.fish) - Run Bash commands replaying changes in Fish. ([Alternative](https://github.com/edc/bass))
 - [Spark](https://github.com/jorgebucaran/spark.fish) - Sparklines for Fish
