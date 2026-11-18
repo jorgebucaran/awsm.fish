@@ -32,8 +32,7 @@ Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other
 
 ## Plugins
 
-- [z](https://github.com/jethrokuan/z) - Pure-Fish [`rupa/z`](https://github.com/rupa/z)-like directory jumping
-- [fish-z](https://github.com/BoringApp/fish-z) - Native Fish port of [zsh-z](https://github.com/agkozak/zsh-z) with subtree search and ranked completions
+- [z](https://github.com/jethrokuan/z) - Pure-Fish [`rupa/z`](https://github.com/rupa/z)-like directory jumping. ([Alternative](https://github.com/BoringApp/fish-z "Native Fish port of zsh-z with subtree search and ranked completions"))
 - [fzf](https://github.com/PatrickF1/fzf.fish) - Ef-🐟-ient key bindings for [`junegunn/fzf`](https://github.com/junegunn/fzf). ([Alternative](https://github.com/jethrokuan/fzf))
 - [nvm](https://github.com/jorgebucaran/nvm.fish) - Node.js version manager lovingly made for Fish
 - [Done](https://github.com/franciscolourenco/done) - Automatically receive notifications after a long process finishes
